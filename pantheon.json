@@ -1326,11 +1326,12 @@
     "coords": { "lat": 33.8624, "lng": -118.4002 },
     "description": "A beach-forward stay that’s basically ‘wake up and you’re already on the water.’",
     "fact": "The entire appeal is Strand-side placement—this is the “beach first, everything else second” pick.",
-    "metrics": {
+     "metrics": {
       "comfy_score": { "val": 8, "note": "Beach comfort." },
       "stability_index": { "val": 8, "note": "Reliable coastal routine." },
       "boundary_level": { "val": 8, "note": "Easy, self-directed days." },
       "food_adventure": { "val": 6, "note": "More surf than culinary mission." }
     }
-  ]
+  }
+]
 }
