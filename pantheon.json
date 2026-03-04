@@ -30,7 +30,7 @@
     {
       "id": "restaurant-us-90026-superette",
       "name": "Superette",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1001 Echo Park Ave",
       "city": "Los Angeles",
@@ -46,7 +46,7 @@
     {
       "id": "restaurant-us-90232-go-go-bird",
       "name": "Go Go Bird",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "9355 Culver Blvd",
       "city": "Culver City",
@@ -62,7 +62,7 @@
     {
       "id": "restaurant-us-90039-goldburger",
       "name": "Goldburger",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1820 N Vermont Ave",
       "city": "Los Angeles",
@@ -78,7 +78,7 @@
     {
       "id": "restaurant-us-90013-chuys-tacos-dorados",
       "name": "Chuy's Tacos Dorados",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1335 Willow St",
       "city": "Los Angeles",
@@ -94,7 +94,7 @@
     {
       "id": "restaurant-us-90048-bandit-chow-mein",
       "name": "Bandit Chow Mein",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "Multiple (Check Schedule)",
       "city": "Los Angeles",
@@ -126,7 +126,7 @@
     {
       "id": "restaurant-us-90013-sari-sari",
       "name": "Sari Sari Store",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "317 S Broadway",
       "city": "Los Angeles",
@@ -190,7 +190,7 @@
     {
       "id": "restaurant-us-94103-square-pie-guys-sf",
       "name": "Square Pie Guys (SF)",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1077 Mission St",
       "city": "San Francisco",
@@ -206,7 +206,7 @@
     {
       "id": "restaurant-us-94596-square-pie-guys-wc",
       "name": "Square Pie Guys (Walnut Creek)",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1616 N Main St",
       "city": "Walnut Creek",
@@ -222,7 +222,7 @@
     {
       "id": "restaurant-us-94611-lovelys-lodge",
       "name": "Lovely's (The Lodge)",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "3758 Piedmont Ave",
       "city": "Oakland",
@@ -238,7 +238,7 @@
     {
       "id": "restaurant-us-94609-lovelys-oakland",
       "name": "Lovely's (North Oakland)",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "4401 San Pablo Ave",
       "city": "Emeryville",
@@ -254,7 +254,7 @@
     {
       "id": "restaurant-us-94103-dumpling-time-sf",
       "name": "Dumpling Time (Design District)",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "11 Division St",
       "city": "San Francisco",
@@ -270,7 +270,7 @@
     {
       "id": "restaurant-us-94612-dumpling-time-oakland",
       "name": "Dumpling Time (Oakland)",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "2273 Broadway",
       "city": "Oakland",
@@ -286,7 +286,7 @@
     {
       "id": "restaurant-us-94612-aburaya",
       "name": "Aburaya",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "362 17th St",
       "city": "Oakland",
@@ -318,7 +318,7 @@
     {
       "id": "restaurant-us-94612-soba-ichi",
       "name": "Soba Ichi",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "2311A Magnolia St",
       "city": "Oakland",
@@ -334,7 +334,7 @@
     {
       "id": "restaurant-us-94111-kokkari-estiatorio",
       "name": "Kokkari Estiatorio",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "200 Jackson St",
       "city": "San Francisco",
@@ -366,7 +366,7 @@
     {
       "id": "restaurant-us-94611-philomena",
       "name": "Philomena",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1801 14th Ave",
       "city": "Oakland",
@@ -414,7 +414,7 @@
     {
       "id": "restaurant-us-94610-ordinaire",
       "name": "Ordinaire",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "3354 Grand Ave",
       "city": "Oakland",
@@ -430,7 +430,7 @@
     {
       "id": "restaurant-us-94703-kinda-izakaya",
       "name": "Kinda Izakaya",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "2522 San Pablo Ave",
       "city": "Berkeley",
@@ -462,7 +462,7 @@
     {
       "id": "museum-us-94118-de-young",
       "name": "De Young Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "50 Hagiwara Tea Garden Dr",
       "city": "San Francisco",
@@ -478,7 +478,7 @@
     {
       "id": "museum-us-94121-legion-of-honor",
       "name": "Legion of Honor",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "100 34th Ave",
       "city": "San Francisco",
@@ -494,7 +494,7 @@
     {
       "id": "restaurant-us-94553-tzunun",
       "name": "Tzunun",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1202 Main St",
       "city": "Pleasant Hill",
@@ -510,7 +510,7 @@
     {
       "id": "restaurant-us-94553-vanessas-bistro",
       "name": "Vanessa's Bistro",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1516 Bonanza St",
       "city": "Walnut Creek",
@@ -526,7 +526,7 @@
     {
       "id": "restaurant-us-94612-donutsavant",
       "name": "Donut Savant",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "3000 38th Ave",
       "city": "Oakland",
@@ -542,7 +542,7 @@
     {
       "id": "museum-us-90012-the-broad",
       "name": "The Broad",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "221 S Grand Ave",
       "city": "Los Angeles",
@@ -750,7 +750,7 @@
     {
       "id": "museum-us-10003-morgan-library",
       "name": "The Morgan Library & Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "225 Madison Ave",
       "city": "New York",
@@ -766,7 +766,7 @@
     {
       "id": "museum-us-10013-mmuseumm",
       "name": "Mmuseumm",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "4 Cortlandt Alley",
       "city": "New York",
@@ -782,7 +782,7 @@
     {
       "id": "museum-us-11101-noguchi-museum",
       "name": "The Noguchi Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "9-01 33rd Rd",
       "city": "Long Island City",
@@ -798,7 +798,7 @@
     {
       "id": "museum-us-11211-city-reliquary",
       "name": "The City Reliquary",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "370 Metropolitan Ave",
       "city": "Brooklyn",
@@ -814,7 +814,7 @@
     {
       "id": "museum-us-10040-cloisters",
       "name": "The Cloisters",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "99 Margaret Corbin Dr",
       "city": "New York",
@@ -830,7 +830,7 @@
     {
       "id": "restaurant-us-11211-lilia",
       "name": "Lilia",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "567 Union Ave",
       "city": "Brooklyn",
@@ -846,7 +846,7 @@
     {
       "id": "restaurant-us-10002-dhamaka",
       "name": "Dhamaka",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "119 Delancey St",
       "city": "New York",
@@ -862,7 +862,7 @@
     {
       "id": "restaurant-us-11201-lucali",
       "name": "Lucali",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "575 Henry St",
       "city": "Brooklyn",
@@ -958,7 +958,7 @@
     {
       "id": "hike-us-12943-keene-valley",
       "name": "Keene Valley",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Route 73",
       "city": "Keene Valley",
@@ -974,7 +974,7 @@
     {
       "id": "restaurant-us-12943-noon-mark-diner",
       "name": "Noon Mark Diner",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "6122 NY-73",
       "city": "Keene Valley",
@@ -990,7 +990,7 @@
     {
       "id": "restaurant-us-10003-ueno",
       "name": "Ueno",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "37 St Marks Pl",
       "city": "New York",
@@ -1006,7 +1006,7 @@
     {
       "id": "restaurant-us-10002-wu-wonton-king",
       "name": "Wu's Wonton King",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "165 E Broadway",
       "city": "New York",
@@ -1022,7 +1022,7 @@
     {
       "id": "restaurant-us-11211-four-horsemen",
       "name": "The Four Horsemen",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "295 Grand St",
       "city": "Brooklyn",
@@ -1038,7 +1038,7 @@
     {
       "id": "restaurant-us-10011-ii-sogno",
       "name": "I Sodi",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "140 W 10th St",
       "city": "New York",
@@ -1054,7 +1054,7 @@
     {
       "id": "restaurant-us-11238-henri",
       "name": "Henri",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "498 Franklin Ave",
       "city": "Brooklyn",
@@ -1070,7 +1070,7 @@
     {
       "id": "restaurant-us-10011-ci-siamo",
       "name": "Ci Siamo",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "440 W 33rd St",
       "city": "New York",
@@ -1150,7 +1150,7 @@
     {
       "id": "museum-us-10013-aphrodisiac",
       "name": "Museum of Sex",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "233 5th Ave",
       "city": "New York",
@@ -1166,7 +1166,7 @@
     {
       "id": "hike-us-12463-kaaterskill-falls",
       "name": "Kaaterskill Falls",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Route 23A",
       "city": "Haines Falls",
@@ -1182,7 +1182,7 @@
     {
       "id": "hike-us-12561-north-point",
       "name": "North Point",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Mohonk Preserve",
       "city": "Gardiner",
@@ -1198,7 +1198,7 @@
     {
       "id": "restaurant-us-12401-lost-ki",
       "name": "Lost Ki",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "100 Rondout Landing",
       "city": "Kingston",
@@ -1214,7 +1214,7 @@
     {
       "id": "restaurant-us-11211-egg",
       "name": "Egg",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "135 N 5th St",
       "city": "Brooklyn",
@@ -1230,7 +1230,7 @@
     {
       "id": "restaurant-us-02138-alderman",
       "name": "Alderman",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "40 Brattle St",
       "city": "Cambridge",
@@ -1246,7 +1246,7 @@
     {
       "id": "restaurant-us-02113-mamma-maria",
       "name": "Mamma Maria",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "3 N Square",
       "city": "Boston",
@@ -1262,7 +1262,7 @@
     {
       "id": "restaurant-us-02130-dirty-water-doughnuts",
       "name": "Dirty Water Doughnuts",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "246 Washington St",
       "city": "Somerville",
@@ -1278,7 +1278,7 @@
     {
       "id": "restaurant-us-02140-sarma",
       "name": "Sarma",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "249 Pearl St",
       "city": "Somerville",
@@ -1294,7 +1294,7 @@
     {
       "id": "restaurant-us-02138-bon-me",
       "name": "Bon Me",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1 Kendall Sq",
       "city": "Cambridge",
@@ -1390,7 +1390,7 @@
     {
       "id": "museum-us-02115-ica",
       "name": "ICA Boston",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "25 Harbor Shore Dr",
       "city": "Boston",
@@ -1406,7 +1406,7 @@
     {
       "id": "museum-us-02138-harvard-art",
       "name": "Harvard Art Museums",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "32 Quincy St",
       "city": "Cambridge",
@@ -1422,7 +1422,7 @@
     {
       "id": "museum-us-01913-peabody-essex",
       "name": "Peabody Essex Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "161 Essex St",
       "city": "Salem",
@@ -1438,7 +1438,7 @@
     {
       "id": "hike-us-01230-race-brook",
       "name": "Race Brook Falls",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Route 41",
       "city": "Sheffield",
@@ -1454,7 +1454,7 @@
     {
       "id": "hike-us-01230-berkshire-botanical",
       "name": "Berkshire Botanical Garden",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "5 W Stockbridge Rd",
       "city": "Stockbridge",
@@ -1470,7 +1470,7 @@
     {
       "id": "museum-us-10032-met-cloisters",
       "name": "The Met Cloisters",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "99 Margaret Corbin Dr",
       "city": "New York",
@@ -1486,7 +1486,7 @@
     {
       "id": "museum-us-10007-woolworth",
       "name": "Woolworth Building Lobby",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "233 Broadway",
       "city": "New York",
@@ -1502,7 +1502,7 @@
     {
       "id": "museum-us-11232-waterfront-museum",
       "name": "Waterfront Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "290 Conover St",
       "city": "Brooklyn",
@@ -1518,7 +1518,7 @@
     {
       "id": "hike-us-14454-letchworth",
       "name": "Letchworth State Park",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "1 Letchworth State Park",
       "city": "Castile",
@@ -1534,7 +1534,7 @@
     {
       "id": "hike-us-14891-watkins-glen",
       "name": "Watkins Glen State Park",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "1009 N Franklin St",
       "city": "Watkins Glen",
@@ -1550,7 +1550,7 @@
     {
       "id": "hike-us-13100-chimney-bluffs",
       "name": "Chimney Bluffs State Park",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "7700 Garner Rd",
       "city": "Wolcott",
@@ -1566,7 +1566,7 @@
     {
       "id": "town-us-12919-keene",
       "name": "Keene",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Main St",
       "city": "Keene",
@@ -1582,7 +1582,7 @@
     {
       "id": "hike-us-12919-jay-mountain",
       "name": "Jay Mountain",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Jay Mountain Rd",
       "city": "Jay",
@@ -1598,7 +1598,7 @@
     {
       "id": "museum-us-12993-whitney",
       "name": "Whitney",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Whitney",
       "city": "Whitney",
@@ -1614,7 +1614,7 @@
     {
       "id": "museum-us-12993-greenwood",
       "name": "Greenwood",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Greenwood",
       "city": "Greenwood",
@@ -1630,7 +1630,7 @@
     {
       "id": "museum-us-12435-haines-falls",
       "name": "Haines Falls",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Main St",
       "city": "Haines Falls",
@@ -1646,7 +1646,7 @@
     {
       "id": "museum-us-12435-big-indian",
       "name": "Big Indian",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Route 28",
       "city": "Big Indian",
@@ -1662,7 +1662,7 @@
     {
       "id": "restaurant-us-19106-zahav",
       "name": "Zahav",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "237 St James Pl",
       "city": "Philadelphia",
@@ -1678,7 +1678,7 @@
     {
       "id": "restaurant-us-19106-high-street",
       "name": "High Street Philly",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "308 Market St",
       "city": "Philadelphia",
@@ -1694,7 +1694,7 @@
     {
       "id": "restaurant-us-19147-victor-cafe",
       "name": "Victor Café",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1303 Dickinson St",
       "city": "Philadelphia",
@@ -1710,7 +1710,7 @@
     {
       "id": "restaurant-us-15222-gaucho",
       "name": "Gaucho",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "Carnivore — 325 N Shore Dr",
       "city": "Pittsburgh",
@@ -1822,7 +1822,7 @@
     {
       "id": "museum-us-19106-national-liberty",
       "name": "National Liberty Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "321 Chestnut St",
       "city": "Philadelphia",
@@ -1838,7 +1838,7 @@
     {
       "id": "museum-us-19123-wagner-institute",
       "name": "Wagner Free Institute of Science",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "1700 W Montgomery Ave",
       "city": "Philadelphia",
@@ -1854,7 +1854,7 @@
     {
       "id": "museum-us-19123-mutter-museum",
       "name": "Mütter Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "19 S 22nd St",
       "city": "Philadelphia",
@@ -1870,7 +1870,7 @@
     {
       "id": "museum-us-15213-warhol",
       "name": "The Andy Warhol Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "117 Sandusky St",
       "city": "Pittsburgh",
@@ -1886,7 +1886,7 @@
     {
       "id": "museum-us-15213-mattress-factory",
       "name": "The Mattress Factory",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "500 Sampsonia Way",
       "city": "Pittsburgh",
@@ -1902,7 +1902,7 @@
     {
       "id": "hike-us-17814-ricketts-glen",
       "name": "Ricketts Glen Falls Trail",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "695 State Route 487",
       "city": "Benton",
@@ -1918,7 +1918,7 @@
     {
       "id": "hike-us-16735-kinzua-sky-walk",
       "name": "Kinzua Sky Walk",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "296 Viaduct Rd",
       "city": "Kane",
@@ -1934,7 +1934,7 @@
     {
       "id": "hike-us-16915-cherry-springs",
       "name": "Cherry Springs State Park",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "4639 Cherry Springs Rd",
       "city": "Coudersport",
@@ -1950,7 +1950,7 @@
     {
       "id": "hike-us-17020-hawk-rock",
       "name": "Hawk Rock Overlook",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Mile 5.7, Appalachian Trail",
       "city": "Duncannon",
@@ -1966,7 +1966,7 @@
     {
       "id": "restaurant-us-18431-ba-me",
       "name": "Bà & Me",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "923 Church St",
       "city": "Honesdale",
@@ -1998,7 +1998,7 @@
     {
       "id": "restaurant-us-06511-sallys-apizza",
       "name": "Sally's Apizza",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "237 Wooster St",
       "city": "New Haven",
@@ -2014,7 +2014,7 @@
     {
       "id": "restaurant-us-06415-the-inishshor",
       "name": "The InishShor",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "115 Old Hartford Rd",
       "city": "Colchester",
@@ -2046,7 +2046,7 @@
     {
       "id": "restaurant-us-06238-bidwell-tavern",
       "name": "The Bidwell Tavern",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "1260 Main St",
       "city": "Coventry",
@@ -2062,7 +2062,7 @@
     {
       "id": "museum-us-06412-montgomery-taggert",
       "name": "Montgomery & Taggert",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "3 Maple St",
       "city": "Chester",
@@ -2078,7 +2078,7 @@
     {
       "id": "museum-us-02813-fantastic-umbrella-factory",
       "name": "The Fantastic Umbrella Factory",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "4820 Old Post Rd",
       "city": "Charlestown",
@@ -2094,7 +2094,7 @@
     {
       "id": "museum-us-02903-john-hay-library",
       "name": "John Hay Library",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "20 Prospect St",
       "city": "Providence",
@@ -2110,7 +2110,7 @@
     {
       "id": "museum-us-02871-green-animals",
       "name": "Green Animals Topiary Garden",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "380 Cory's Ln",
       "city": "Portsmouth",
@@ -2126,7 +2126,7 @@
     {
       "id": "museum-us-02822-exeter-vampire",
       "name": "Mercy Brown Vampire Grave",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Chestnut Hill Cemetery",
       "city": "Exeter",
@@ -2142,7 +2142,7 @@
     {
       "id": "hike-us-02807-mohegan-bluffs",
       "name": "Mohegan Bluffs",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Mohegan Trail",
       "city": "New Shoreham",
@@ -2158,7 +2158,7 @@
     {
       "id": "museum-us-05641-hope-cemetery",
       "name": "Hope Cemetery",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "201 Maple Ave",
       "city": "Barre",
@@ -2190,7 +2190,7 @@
     {
       "id": "restaurant-us-05676-prohibition-pig",
       "name": "Prohibition Pig",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "23 S Main St",
       "city": "Waterbury",
@@ -2206,7 +2206,7 @@
     {
       "id": "museum-us-05676-ben-and-jerrys",
       "name": "Ben & Jerry's Flavor Graveyard",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "1281 Waterbury-Stowe Rd",
       "city": "Waterbury",
@@ -2222,7 +2222,7 @@
     {
       "id": "hike-us-05748-texas-falls",
       "name": "Texas Falls",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Texas Falls Rd",
       "city": "Hancock",
@@ -2254,7 +2254,7 @@
     {
       "id": "restaurant-us-03801-bottle-deli",
       "name": "The Bottle Delli",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "941 Maplewood Ave",
       "city": "Portsmouth",
@@ -2270,7 +2270,7 @@
     {
       "id": "museum-us-03801-strawbery-banke",
       "name": "Strawbery Banke Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "14 Hancock St",
       "city": "Portsmouth",
@@ -2286,7 +2286,7 @@
     {
       "id": "hike-us-03860-echo-lake",
       "name": "Echo Lake State Park",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "68 Echo Lake Rd",
       "city": "North Conway",
@@ -2302,7 +2302,7 @@
     {
       "id": "museum-us-03580-frost-place",
       "name": "The Frost Place",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "158 Ridge Rd",
       "city": "Franconia",
@@ -2318,7 +2318,7 @@
     {
       "id": "hike-us-03580-franconia-ridge",
       "name": "Franconia Ridge Loop",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Franconia Notch State Park",
       "city": "Franconia",
@@ -2334,7 +2334,7 @@
     {
       "id": "hike-us-04609-acadia-carriage-roads",
       "name": "Acadia Carriage Roads",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Acadia National Park",
       "city": "Bar Harbor",
@@ -2350,7 +2350,7 @@
     {
       "id": "restaurant-us-04609-jordan-pond-house",
       "name": "Jordan Pond House",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "2928 Park Loop Rd",
       "city": "Bar Harbor",
@@ -2366,7 +2366,7 @@
     {
       "id": "hike-us-04414-gulf-hagas",
       "name": "Gulf Hagas",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Kibby Township",
       "city": "Brownville",
@@ -2382,7 +2382,7 @@
     {
       "id": "museum-us-04694-moosehorn-wildlife",
       "name": "Moosehorn National Wildlife Refuge",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "103 Headquarters Rd",
       "city": "Baring",
@@ -2398,7 +2398,7 @@
     {
       "id": "restaurant-us-04478-rockwood-bar-grill",
       "name": "Rockwood Bar & Grill",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "Rockwood Rd",
       "city": "Rockwood",
@@ -2414,7 +2414,7 @@
     {
       "id": "hike-us-04079-giant-stairs",
       "name": "Giant's Stairs",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Bailey Island Rd",
       "city": "Harpswell",
@@ -2430,7 +2430,7 @@
     {
       "id": "hike-us-04739-allagash",
       "name": "Allagash Wilderness Waterway",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Allagash Wilderness Waterway",
       "city": "Eagle Lake",
@@ -2446,7 +2446,7 @@
     {
       "id": "museum-us-04032-desert-maine",
       "name": "Desert of Maine",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "95 Desert Rd",
       "city": "Freeport",
@@ -2462,7 +2462,7 @@
     {
       "id": "museum-us-04096-eartha",
       "name": "Eartha",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "2 DeLorme Dr",
       "city": "Yarmouth",
@@ -2478,7 +2478,7 @@
     {
       "id": "hike-us-04769-solar-system",
       "name": "Maine Solar System Model",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Route 1",
       "city": "Presque Isle",
@@ -2494,7 +2494,7 @@
     {
       "id": "museum-us-06901-mystic-seaport",
       "name": "Mystic Seaport Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "75 Greenmanville Ave",
       "city": "Mystic",
@@ -2510,7 +2510,7 @@
     {
       "id": "museum-us-06412-ferry",
       "name": "Connecticut River Ferries",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Various landings",
       "city": "Chester",
@@ -2526,7 +2526,7 @@
     {
       "id": "museum-us-06477-pez",
       "name": "Pez Visitor Center",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "35 Prindle Hill Rd",
       "city": "Orange",
@@ -2542,7 +2542,7 @@
     {
       "id": "restaurant-us-06510-louis-lunch",
       "name": "Louis' Lunch",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "261 Crown St",
       "city": "New Haven",
@@ -2558,7 +2558,7 @@
     {
       "id": "museum-us-02830-conjuring",
       "name": "The Conjuring House",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "1677 Round Top Rd",
       "city": "Burrillville",
@@ -2574,7 +2574,7 @@
     {
       "id": "hike-us-02840-cliff-walk",
       "name": "Newport Cliff Walk",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Memorial Blvd",
       "city": "Newport",
@@ -2590,7 +2590,7 @@
     {
       "id": "museum-us-01370-bridge-flowers",
       "name": "Bridge of Flowers",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "22 Water St",
       "city": "Shelburne Falls",
@@ -2606,7 +2606,7 @@
     {
       "id": "museum-us-01773-ponyhenge",
       "name": "Ponyhenge",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Old Sudbury Rd",
       "city": "Lincoln",
@@ -2622,7 +2622,7 @@
     {
       "id": "museum-us-02115-mapparium",
       "name": "Mapparium",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "210 Massachusetts Ave",
       "city": "Boston",
@@ -2638,7 +2638,7 @@
     {
       "id": "museum-us-01373-magic-wings",
       "name": "Magic Wings Butterfly Conservatory",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "281 Greenfield Rd",
       "city": "South Deerfield",
@@ -2654,7 +2654,7 @@
     {
       "id": "museum-us-13502-utica",
       "name": "Utica State Hospital",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "1213 Court St",
       "city": "Utica",
@@ -2670,7 +2670,7 @@
     {
       "id": "town-us-14527-penn-yan",
       "name": "Penn Yan",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "107 Main St",
       "city": "Penn Yan",
@@ -2686,7 +2686,7 @@
     {
       "id": "town-us-18229-jim-thorpe",
       "name": "Jim Thorpe",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Broadway",
       "city": "Jim Thorpe",
@@ -2702,7 +2702,7 @@
     {
       "id": "museum-us-01945-marblehead",
       "name": "Marblehead",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Downtown",
       "city": "Marblehead",
@@ -2718,7 +2718,7 @@
     {
       "id": "museum-us-02779-dighton-rock",
       "name": "Dighton Rock",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "3rd Ave",
       "city": "Berkley",
@@ -2734,7 +2734,7 @@
     {
       "id": "museum-us-05641-bennington-triangle",
       "name": "Bennington Triangle",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Glastenbury Mountain",
       "city": "Bennington",
@@ -2750,7 +2750,7 @@
     {
       "id": "museum-us-05819-dog-chapel",
       "name": "Dog Chapel",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "143 Parks Rd",
       "city": "St. Johnsbury",
@@ -2766,7 +2766,7 @@
     {
       "id": "museum-us-03079-americas-stonehenge",
       "name": "America's Stonehenge",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "105 Haverhill Rd",
       "city": "Salem",
@@ -2782,7 +2782,7 @@
     {
       "id": "museum-us-03251-clarks-trading",
       "name": "Clark's Trading Post",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "110 US-3",
       "city": "Lincoln",
@@ -2798,7 +2798,7 @@
     {
       "id": "museum-us-03801-albacore",
       "name": "USS Albacore",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "600 Market St",
       "city": "Portsmouth",
@@ -2814,7 +2814,7 @@
     {
       "id": "museum-us-04739-allagash",
       "name": "Allagash Wilderness Waterway",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Allagash Wilderness Waterway",
       "city": "Eagle Lake",
@@ -2830,7 +2830,7 @@
     {
       "id": "museum-us-04032-desert-maine",
       "name": "Desert of Maine",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "95 Desert Rd",
       "city": "Freeport",
@@ -2846,7 +2846,7 @@
     {
       "id": "museum-us-04096-eartha",
       "name": "Eartha",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "2 DeLorme Dr",
       "city": "Yarmouth",
@@ -2862,7 +2862,7 @@
     {
       "id": "hike-us-04769-solar-system",
       "name": "Maine Solar System Model",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Route 1",
       "city": "Presque Isle",
@@ -2878,7 +2878,7 @@
     {
       "id": "museum-us-06901-mystic-seaport",
       "name": "Mystic Seaport Museum",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "75 Greenmanville Ave",
       "city": "Mystic",
@@ -2894,7 +2894,7 @@
     {
       "id": "museum-us-06412-ferry",
       "name": "Connecticut River Ferries",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Various landings",
       "city": "Chester",
@@ -2910,7 +2910,7 @@
     {
       "id": "museum-us-06477-pez",
       "name": "Pez Visitor Center",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "35 Prindle Hill Rd",
       "city": "Orange",
@@ -2926,7 +2926,7 @@
     {
       "id": "restaurant-us-06510-louis-lunch",
       "name": "Louis' Lunch",
-      "type": "restaurant",
+      "type": "eats",
       "teen_safe": true,
       "address": "261 Crown St",
       "city": "New Haven",
@@ -2942,7 +2942,7 @@
     {
       "id": "museum-us-02830-conjuring",
       "name": "The Conjuring House",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "1677 Round Top Rd",
       "city": "Burrillville",
@@ -2958,7 +2958,7 @@
     {
       "id": "hike-us-02840-cliff-walk",
       "name": "Newport Cliff Walk",
-      "type": "hike",
+      "type": "outdoors",
       "teen_safe": true,
       "address": "Memorial Blvd",
       "city": "Newport",
@@ -2974,7 +2974,7 @@
     {
       "id": "museum-us-01370-bridge-flowers",
       "name": "Bridge of Flowers",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "22 Water St",
       "city": "Shelburne Falls",
@@ -2990,7 +2990,7 @@
     {
       "id": "museum-us-01773-ponyhenge",
       "name": "Ponyhenge",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Old Sudbury Rd",
       "city": "Lincoln",
@@ -3006,7 +3006,7 @@
     {
       "id": "museum-us-02115-mapparium",
       "name": "Mapparium",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "210 Massachusetts Ave",
       "city": "Boston",
@@ -3022,7 +3022,7 @@
     {
       "id": "museum-us-01373-magic-wings",
       "name": "Magic Wings Butterfly Conservatory",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "281 Greenfield Rd",
       "city": "South Deerfield",
@@ -3038,7 +3038,7 @@
     {
       "id": "museum-us-13502-utica",
       "name": "Utica State Hospital",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "1213 Court St",
       "city": "Utica",
@@ -3054,7 +3054,7 @@
     {
       "id": "town-us-14527-penn-yan",
       "name": "Penn Yan",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "107 Main St",
       "city": "Penn Yan",
@@ -3070,7 +3070,7 @@
     {
       "id": "town-us-18229-jim-thorpe",
       "name": "Jim Thorpe",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Broadway",
       "city": "Jim Thorpe",
@@ -3086,7 +3086,7 @@
     {
       "id": "museum-us-01945-marblehead",
       "name": "Marblehead",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "Downtown",
       "city": "Marblehead",
@@ -3102,7 +3102,7 @@
     {
       "id": "museum-us-02779-dighton-rock",
       "name": "Dighton Rock",
-      "type": "museum",
+      "type": "culture",
       "teen_safe": true,
       "address": "3rd Ave",
       "city": "Berkley",
@@ -3118,7 +3118,7 @@
    {
     "id": "museum-ca-a0h-manuels-river",
     "name": "Manuel's River Interpretation Centre",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "391 Marine Lab Dr",
     "city": "Upper Island Cove",
@@ -3139,7 +3139,7 @@
   {
     "id": "museum-ca-a0c-elliston",
     "name": "Elliston",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main Rd",
     "city": "Elliston",
@@ -3160,7 +3160,7 @@
   {
     "id": "museum-ca-e2v-irving-eco",
     "name": "Irving Eco-Centre",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "133 Chemin du Moulin",
     "city": "Bouctouche",
@@ -3181,7 +3181,7 @@
   {
     "id": "hike-ca-e4k-hurricane-trail",
     "name": "Hurricane Trail",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Kouchibouguac National Park",
     "city": "Kouchibouguac",
@@ -3202,7 +3202,7 @@
   {
     "id": "museum-ca-g4t-iles-madeleine",
     "name": "Îles de la Madeleine",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Route 199",
     "city": "Cap-aux-Meules",
@@ -3223,7 +3223,7 @@
   {
     "id": "museum-ca-g4t-falaise",
     "name": "Falaise aux Oiseaux",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Chemin de la Falaise",
     "city": "Grosse-Île",
@@ -3244,7 +3244,7 @@
   {
     "id": "museum-ca-g0c-miguasha",
     "name": "Miguasha National Park",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "231 Route Miguasha O",
     "city": "Nouvelle",
@@ -3265,7 +3265,7 @@
   {
     "id": "museum-ca-j0m-ivujivik",
     "name": "Ivujivik",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Ivujivik",
     "city": "Ivujivik",
@@ -3286,7 +3286,7 @@
   {
     "id": "museum-ca-p3e-ramsay",
     "name": "Ramsay Lake",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Ramsay Lake Rd",
     "city": "Greater Sudbury",
@@ -3307,7 +3307,7 @@
   {
     "id": "museum-ca-p0t-agate",
     "name": "Agate Bay",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Highway 17",
     "city": "Terrace Bay",
@@ -3328,7 +3328,7 @@
   {
     "id": "museum-ca-p0t-sleeping-giant",
     "name": "Sleeping Giant",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pass Lake",
     "city": "Pass Lake",
@@ -3349,7 +3349,7 @@
   {
     "id": "museum-ca-r6m-badlands",
     "name": "Manitoba Badlands",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Highway 18",
     "city": "Morden",
@@ -3370,7 +3370,7 @@
   {
     "id": "museum-ca-s0n-cypress-hills",
     "name": "Cypress Hills Interprovincial Park",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Highway 21",
     "city": "Maple Creek",
@@ -3391,7 +3391,7 @@
   {
     "id": "museum-ca-v0a-burgess-shale",
     "name": "Burgess Shale",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Yoho National Park",
     "city": "Field",
@@ -3412,7 +3412,7 @@
   {
     "id": "hike-ca-v0a-giants-cemetery",
     "name": "Giants Cemetery Trail",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Kootenay National Park",
     "city": "Radium Hot Springs",
@@ -3433,7 +3433,7 @@
   {
     "id": "museum-ca-v0t-sgang-gwaay",
     "name": "SGang Gwaay",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Gwaii Haanas National Park",
     "city": "Haida Gwaii",
@@ -3454,7 +3454,7 @@
   {
     "id": "museum-ca-v0t-rose-spit",
     "name": "Rose Spit",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Naikoon Provincial Park",
     "city": "Haida Gwaii",
@@ -3475,7 +3475,7 @@
   {
     "id": "museum-ca-y0b-carcross-desert",
     "name": "Carcross Desert",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "South Klondike Highway",
     "city": "Carcross",
@@ -3496,7 +3496,7 @@
   {
     "id": "museum-ca-x0e-tuktut-nogait",
     "name": "Tuktut Nogait National Park",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Paulatuk",
     "city": "Paulatuk",
@@ -3517,7 +3517,7 @@
   {
     "id": "hike-ca-x0a-nalunaikkut",
     "name": "Nalunaikkut",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Pangnirtung",
     "city": "Pangnirtung",
@@ -3538,7 +3538,7 @@
   {
     "id": "museum-ca-x0a-iksiivik",
     "name": "Iksiivik",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Iqaluit",
     "city": "Iqaluit",
@@ -3559,7 +3559,7 @@
   {
     "id": "museum-ca-a0h-aventuraid",
     "name": "Aventuraid",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Girardville",
     "city": "Girardville",
@@ -3580,7 +3580,7 @@
   {
     "id": "museum-ca-g5l-empress",
     "name": "Empress of Ireland Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pointe-au-Père",
     "city": "Rimouski",
@@ -3601,7 +3601,7 @@
   {
     "id": "hike-ca-g5l-translabrador",
     "name": "Trans-Labrador Highway",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Route 389",
     "city": "Fermont",
@@ -3622,7 +3622,7 @@
   {
     "id": "museum-ca-g5l-onondaga",
     "name": "HMCS Onondaga",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pointe-au-Père",
     "city": "Rimouski",
@@ -3685,7 +3685,7 @@
   {
     "id": "museum-ca-r0c-snake-dens",
     "name": "Narcisse Snake Dens",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Narcisse",
     "city": "Narcisse",
@@ -3706,7 +3706,7 @@
   {
     "id": "museum-ca-k2p-haunted-prison",
     "name": "The Haunted Prison Hotel",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "75 Nicholas St",
     "city": "Ottawa",
@@ -3727,7 +3727,7 @@
   {
     "id": "hike-ca-b0e-not-since-moses",
     "name": "Not Since Moses Run",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Burntcoat Head",
     "city": "Burntcoat",
@@ -3748,7 +3748,7 @@
   {
     "id": "museum-ca-s0h-little-manitou",
     "name": "Little Manitou Lake",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Little Manitou Lake",
     "city": "Watrous",
@@ -3769,7 +3769,7 @@
   {
     "id": "hike-ca-g1r-ice-canoe",
     "name": "Ice Canoe in Quebec City",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Quai des Cageux",
     "city": "Quebec City",
@@ -3790,7 +3790,7 @@
   {
     "id": "hike-ca-g4t-cave-swimming",
     "name": "Cave Swimming",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Îles de la Madeleine",
     "city": "Cap-aux-Meules",
@@ -3811,7 +3811,7 @@
   {
     "id": "hike-ca-v9w-salmon-snorkel",
     "name": "The Salmon Snorkel",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Campbell River",
     "city": "Campbell River",
@@ -3832,7 +3832,7 @@
   {
     "id": "museum-ca-s0l-crooked-bush",
     "name": "The Crooked Bush",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Alticane",
     "city": "Alticane",
@@ -3853,7 +3853,7 @@
   {
     "id": "museum-ca-r3c-hermetic-code",
     "name": "The Hermetic Code",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "450 Broadway",
     "city": "Winnipeg",
@@ -3874,7 +3874,7 @@
   {
     "id": "museum-ca-k0a-diefenbunker",
     "name": "The Diefenbunker",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "3929 Carp Rd",
     "city": "Carp",
@@ -3895,7 +3895,7 @@
   {
     "id": "town-ca-e2v-st-andrews",
     "name": "St. Andrews by-the-Sea",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "St. Andrews",
@@ -3916,7 +3916,7 @@
   {
     "id": "town-ca-p0m-shining-tree",
     "name": "Shining Tree",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Shining Tree",
     "city": "Shining Tree",
@@ -3937,7 +3937,7 @@
   {
     "id": "town-ca-v0r-coombs",
     "name": "Coombs",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2326 Alberni Hwy",
     "city": "Coombs",
@@ -3958,7 +3958,7 @@
   {
     "id": "town-ca-v1m-fort-langley",
     "name": "Fort Langley",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "9025 Glover Rd",
     "city": "Fort Langley",
@@ -3979,7 +3979,7 @@
   {
     "id": "town-ca-n0m-bayfield",
     "name": "Bayfield",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Bayfield",
@@ -4000,7 +4000,7 @@
   {
     "id": "town-ca-j8e-mont-tremblant",
     "name": "Mont-Tremblant",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Chemin de Kandahar",
     "city": "Mont-Tremblant",
@@ -4021,7 +4021,7 @@
   {
     "id": "town-ca-n0b-elora",
     "name": "Elora",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Metcalfe St",
     "city": "Elora",
@@ -4042,7 +4042,7 @@
   {
     "id": "town-ca-v1g-nelson",
     "name": "Nelson",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Baker St",
     "city": "Nelson",
@@ -4063,7 +4063,7 @@
   {
     "id": "town-ca-j0t-saint-sauveur",
     "name": "Saint-Sauveur",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rue Principale",
     "city": "Saint-Sauveur",
@@ -4084,7 +4084,7 @@
   {
     "id": "town-ca-p0c-rosseau",
     "name": "Rosseau",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Rosseau",
@@ -4105,7 +4105,7 @@
   {
     "id": "town-ca-v0k-lac-le-jeune",
     "name": "Lac Le Jeune",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Lac Le Jeune Rd",
     "city": "Lac Le Jeune",
@@ -4126,7 +4126,7 @@
   {
     "id": "town-ca-e7l-woodstock",
     "name": "Woodstock",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Woodstock",
@@ -4147,7 +4147,7 @@
   {
     "id": "town-ca-j0t-val-david",
     "name": "Val-David",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rue de l'Église",
     "city": "Val-David",
@@ -4168,7 +4168,7 @@
   {
     "id": "town-ca-v0m-harrison-hot-springs",
     "name": "Harrison Hot Springs",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Hot Springs Rd",
     "city": "Harrison Hot Springs",
@@ -4189,7 +4189,7 @@
   {
     "id": "town-ca-k0j-barrys-bay",
     "name": "Barry's Bay",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Barry's Bay",
@@ -4210,7 +4210,7 @@
   {
     "id": "town-ca-v0g-kaslo",
     "name": "Kaslo",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Front St",
     "city": "Kaslo",
@@ -4231,7 +4231,7 @@
   {
     "id": "town-ca-j0t-saint-donat",
     "name": "Saint-Donat",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rue Principale",
     "city": "Saint-Donat",
@@ -4252,7 +4252,7 @@
   {
     "id": "town-ca-v0a-golden",
     "name": "Golden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "10th Ave",
     "city": "Golden",
@@ -4273,7 +4273,7 @@
   {
     "id": "town-ca-p0h-mattawa",
     "name": "Mattawa",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Mattawa",
@@ -4294,7 +4294,7 @@
   {
     "id": "town-ca-v0g-nakusp",
     "name": "Nakusp",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Broadway St",
     "city": "Nakusp",
@@ -4315,7 +4315,7 @@
   {
     "id": "town-ca-j0t-saint-adolphe",
     "name": "Saint-Adolphe-d'Howard",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rue Principale",
     "city": "Saint-Adolphe-d'Howard",
@@ -4336,7 +4336,7 @@
   {
     "id": "town-ca-v0p-port-renfrew",
     "name": "Port Renfrew",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Cerantes Rd",
     "city": "Port Renfrew",
@@ -4357,7 +4357,7 @@
   {
     "id": "town-ca-v0a-field",
     "name": "Field",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Kicking Horse Ave",
     "city": "Field",
@@ -4378,7 +4378,7 @@
   {
     "id": "town-ca-g0x-saint-mathieu",
     "name": "Saint-Mathieu-du-Parc",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rue Principale",
     "city": "Saint-Mathieu-du-Parc",
@@ -4399,7 +4399,7 @@
   {
     "id": "town-ca-v0p-ucluelet",
     "name": "Ucluelet",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Ucluelet",
@@ -4420,7 +4420,7 @@
   {
     "id": "town-ca-e7h-perth-andover",
     "name": "Perth-Andover",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Perth-Andover",
@@ -4441,7 +4441,7 @@
   {
     "id": "town-ca-y0b-mayo",
     "name": "Mayo",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Main St",
     "city": "Mayo",
@@ -4462,7 +4462,7 @@
   {
     "id": "museum-mx-24000-silent-zone",
     "name": "La Zona del Silencio (The Silent Zone)",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Mapimí Biosphere Reserve",
     "city": "Mapimí",
@@ -4483,7 +4483,7 @@
   {
     "id": "museum-mx-79900-las-pozas",
     "name": "Las Pozas de Xilitla",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Xilitla",
     "city": "Xilitla",
@@ -4504,7 +4504,7 @@
   {
     "id": "museum-mx-61600-paricutin",
     "name": "Paricutín Volcano",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "San Juan Parangaricutiro",
     "city": "Angahuan",
@@ -4525,7 +4525,7 @@
   {
     "id": "museum-mx-26000-cuatro-cienegas",
     "name": "Cuatro Ciénegas",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Cuatro Ciénegas",
     "city": "Cuatro Ciénegas",
@@ -4546,7 +4546,7 @@
   {
     "id": "museum-mx-16000-isla-munecas",
     "name": "Isla de las Muñecas (Island of the Dolls)",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Xochimilco canals",
     "city": "Mexico City",
@@ -4567,7 +4567,7 @@
   {
     "id": "museum-mx-86900-boca-del-cerro",
     "name": "Boca del Cerro",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Tenosique",
     "city": "Tenosique",
@@ -4588,7 +4588,7 @@
   {
     "id": "museum-mx-24330-candelaria",
     "name": "Candelaria",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Candelaria",
     "city": "Candelaria",
@@ -4609,7 +4609,7 @@
   {
     "id": "museum-mx-24800-hecelchakan",
     "name": "Hecelchakán",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Hecelchakán",
     "city": "Hecelchakán",
@@ -4630,7 +4630,7 @@
   {
     "id": "museum-mx-24560-pomuch",
     "name": "Pomuch",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pomuch",
     "city": "Pomuch",
@@ -4672,7 +4672,7 @@
   {
     "id": "museum-mx-77900-los-rapidos",
     "name": "Los Rápidos",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Bacalar",
     "city": "Bacalar",
@@ -4693,7 +4693,7 @@
   {
     "id": "museum-mx-77900-cenote-azul",
     "name": "Cenote Azul",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Bacalar",
     "city": "Bacalar",
@@ -4714,7 +4714,7 @@
   {
     "id": "town-mx-24200-palizada",
     "name": "Palizada",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Palizada",
     "city": "Palizada",
@@ -4735,7 +4735,7 @@
   {
     "id": "museum-mx-24000-edzna",
     "name": "Edzná",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Edzná",
     "city": "Edzná",
@@ -4756,7 +4756,7 @@
   {
     "id": "museum-mx-24640-calakmul",
     "name": "Calakmul",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Calakmul Biosphere Reserve",
     "city": "Calakmul",
@@ -4777,7 +4777,7 @@
   {
     "id": "museum-mx-24640-becan",
     "name": "Becán",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Becán",
     "city": "Becán",
@@ -4798,7 +4798,7 @@
   {
     "id": "museum-mx-24640-chicanna",
     "name": "Chicanná",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Chicanná",
     "city": "Chicanná",
@@ -4819,7 +4819,7 @@
   {
     "id": "museum-mx-24640-xpujil",
     "name": "Xpujil",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Xpujil",
     "city": "Xpujil",
@@ -4840,7 +4840,7 @@
   {
     "id": "museum-mx-77000-kohunlich",
     "name": "Kohunlich",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Kohunlich",
     "city": "Kohunlich",
@@ -4861,7 +4861,7 @@
   {
     "id": "museum-mx-77000-dzibanche",
     "name": "Dzibanché",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Dzibanché",
     "city": "Dzibanché",
@@ -4882,7 +4882,7 @@
   {
     "id": "museum-mx-77000-kinichna",
     "name": "Kinichná",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Kinichná",
     "city": "Kinichná",
@@ -4903,7 +4903,7 @@
   {
     "id": "town-mx-70980-sierra-norte",
     "name": "Sierra Norte",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Sierra Norte",
     "city": "Oaxaca",
@@ -4924,7 +4924,7 @@
   {
     "id": "hike-mx-29000-sumidero",
     "name": "Sumidero Canyon",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Chiapa de Corzo",
     "city": "Chiapa de Corzo",
@@ -4945,7 +4945,7 @@
   {
     "id": "museum-mx-46000-hierve-el-agua",
     "name": "Hierve el Agua",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "San Lorenzo Albarradas",
     "city": "San Lorenzo Albarradas",
@@ -4966,7 +4966,7 @@
   {
     "id": "museum-mx-46000-monte-alban",
     "name": "Monte Albán",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Monte Albán",
     "city": "Oaxaca",
@@ -4987,7 +4987,7 @@
   {
     "id": "museum-mx-46000-chamula",
     "name": "San Juan Chamula",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "San Juan Chamula",
     "city": "San Juan Chamula",
@@ -5008,7 +5008,7 @@
   {
     "id": "museum-mx-46000-montebello",
     "name": "Lagos de Montebello",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Lagos de Montebello",
     "city": "La Trinitaria",
@@ -5029,7 +5029,7 @@
   {
     "id": "museum-mx-97000-chichen-itza",
     "name": "Chichén Itzá",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Chichén Itzá",
     "city": "Tinum",
@@ -5050,7 +5050,7 @@
   {
     "id": "museum-mx-97000-uxmal",
     "name": "Uxmal",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Uxmal",
     "city": "Muna",
@@ -5071,7 +5071,7 @@
   {
     "id": "town-mx-97000-izamal",
     "name": "Izamal",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Izamal",
     "city": "Izamal",
@@ -5092,7 +5092,7 @@
   {
     "id": "museum-mx-23000-rio-lagartos",
     "name": "Río Lagartos",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Río Lagartos",
     "city": "Río Lagartos",
@@ -5113,7 +5113,7 @@
   {
     "id": "town-mx-36000-guanajuato",
     "name": "Guanajuato",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Guanajuato",
     "city": "Guanajuato",
@@ -5134,7 +5134,7 @@
   {
     "id": "town-mx-37700-san-miguel",
     "name": "San Miguel de Allende",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "San Miguel de Allende",
     "city": "San Miguel de Allende",
@@ -5155,7 +5155,7 @@
   {
     "id": "town-mx-38980-pozos",
     "name": "Pozos",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Mineral de Pozos",
     "city": "Mineral de Pozos",
@@ -5176,7 +5176,7 @@
   {
     "id": "museum-mx-93000-el-tajin",
     "name": "El Tajín",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "El Tajín",
     "city": "Papantla",
@@ -5197,7 +5197,7 @@
   {
     "id": "museum-mx-91000-tuxtlas",
     "name": "Los Tuxtlas",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Los Tuxtlas",
     "city": "San Andrés Tuxtla",
@@ -5239,7 +5239,7 @@
   {
     "id": "museum-mx-23950-san-ignacio",
     "name": "San Ignacio Lagoon",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "San Ignacio",
     "city": "San Ignacio",
@@ -5260,7 +5260,7 @@
   {
     "id": "hike-mx-31000-sierra-san-francisco",
     "name": "Sierra de San Francisco",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "San Francisco de la Sierra",
     "city": "San Ignacio",
@@ -5281,7 +5281,7 @@
   {
     "id": "hike-mx-31000-copper-canyon",
     "name": "Copper Canyon",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Copper Canyon",
     "city": "Creel",
@@ -5302,7 +5302,7 @@
   {
     "id": "town-mx-34000-creel",
     "name": "Creel",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Creel",
     "city": "Creel",
@@ -5344,7 +5344,7 @@
   {
     "id": "town-mx-44100-guadalajara",
     "name": "Guadalajara Historic Center",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Centro Histórico",
     "city": "Guadalajara",
@@ -5386,7 +5386,7 @@
   {
     "id": "museum-jp-110-0007-sensoji",
     "name": "Sensō-ji Temple",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2-3-1 Asakusa",
     "city": "Tokyo",
@@ -5407,7 +5407,7 @@
   {
     "id": "museum-jp-100-0005-meiji-jingu",
     "name": "Meiji Jingu",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-1 Yoyogikamizonocho",
     "city": "Tokyo",
@@ -5428,7 +5428,7 @@
   {
     "id": "museum-jp-104-0061-tsukiji",
     "name": "Tsukiji Outer Market",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "4-16-2 Tsukiji",
     "city": "Tokyo",
@@ -5449,7 +5449,7 @@
   {
     "id": "museum-jp-150-0001-shibuya-sky",
     "name": "Shibuya Sky",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2-24-12 Shibuya",
     "city": "Tokyo",
@@ -5470,7 +5470,7 @@
   {
     "id": "museum-jp-111-0032-teamlab-planets",
     "name": "teamLab Planets",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "6-1-16 Toyosu",
     "city": "Tokyo",
@@ -5491,7 +5491,7 @@
   {
     "id": "district-jp-150-0001-omotesando",
     "name": "Omotesando",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Omotesando",
     "city": "Tokyo",
@@ -5512,7 +5512,7 @@
   {
     "id": "restaurant-jp-150-0001-gonpachi",
     "name": "Gonpachi Nishiazabu",
-    "type": "restaurant",
+    "type": "eats",
     "teen_safe": true,
     "address": "1-13-11 Nishiazabu",
     "city": "Tokyo",
@@ -5554,7 +5554,7 @@
   {
     "id": "museum-jp-605-0853-fushimi-inari",
     "name": "Fushimi Inari Taisha",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "68 Fukakusa Yabunouchicho",
     "city": "Kyoto",
@@ -5575,7 +5575,7 @@
   {
     "id": "museum-jp-603-8361-kinkaku-ji",
     "name": "Kinkaku-ji (Golden Pavilion)",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1 Kinkakujicho",
     "city": "Kyoto",
@@ -5596,7 +5596,7 @@
   {
     "id": "museum-jp-616-8387-ryoan-ji",
     "name": "Ryōan-ji",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "13 Ryoanji Goryonoshitacho",
     "city": "Kyoto",
@@ -5617,7 +5617,7 @@
   {
     "id": "museum-jp-616-8387-kiyomizu-dera",
     "name": "Kiyomizu-dera",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-294 Kiyomizu",
     "city": "Kyoto",
@@ -5638,7 +5638,7 @@
   {
     "id": "museum-jp-616-8387-arashiyama",
     "name": "Arashiyama Bamboo Grove",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Arashiyama",
     "city": "Kyoto",
@@ -5659,7 +5659,7 @@
   {
     "id": "museum-jp-605-0853-nijo-castle",
     "name": "Nijō Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "541 Nijojocho",
     "city": "Kyoto",
@@ -5722,7 +5722,7 @@
   {
     "id": "museum-jp-542-0076-osaka-castle",
     "name": "Osaka Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-1 Osakajo",
     "city": "Osaka",
@@ -5743,7 +5743,7 @@
   {
     "id": "district-jp-542-0076-dotonbori",
     "name": "Dotonbori",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Dotonbori",
     "city": "Osaka",
@@ -5764,7 +5764,7 @@
   {
     "id": "museum-jp-542-0076-kaiyukan",
     "name": "Osaka Aquarium Kaiyukan",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-1-10 Kaigandori",
     "city": "Osaka",
@@ -5785,7 +5785,7 @@
   {
     "id": "restaurant-jp-542-0076-kuromon",
     "name": "Kuromon Ichiba Market",
-    "type": "restaurant",
+    "type": "eats",
     "teen_safe": true,
     "address": "2-4-1 Nipponbashi",
     "city": "Osaka",
@@ -5806,7 +5806,7 @@
   {
     "id": "museum-jp-542-0076-shitennoji",
     "name": "Shitennō-ji",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-11-18 Shitennoji",
     "city": "Osaka",
@@ -5827,7 +5827,7 @@
   {
     "id": "museum-jp-920-0000-kenrokuen",
     "name": "Kenrokuen Garden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1 Kenrokumachi",
     "city": "Kanazawa",
@@ -5848,7 +5848,7 @@
   {
     "id": "district-jp-920-0000-nagamachi",
     "name": "Nagamachi Samurai District",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Nagamachi",
     "city": "Kanazawa",
@@ -5869,7 +5869,7 @@
   {
     "id": "museum-jp-920-0000-higashi-chaya",
     "name": "Higashi Chaya District",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Higashiyama",
     "city": "Kanazawa",
@@ -5890,7 +5890,7 @@
   {
     "id": "museum-jp-920-0000-21st-century",
     "name": "21st Century Museum of Contemporary Art",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-2-1 Hirosaka",
     "city": "Kanazawa",
@@ -5911,7 +5911,7 @@
   {
     "id": "museum-jp-630-0000-todaiji",
     "name": "Tōdai-ji",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "406-1 Zoshicho",
     "city": "Nara",
@@ -5932,7 +5932,7 @@
   {
     "id": "museum-jp-630-0000-kasuga-taisha",
     "name": "Kasuga Taisha",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "160 Kasuganocho",
     "city": "Nara",
@@ -5953,7 +5953,7 @@
   {
     "id": "museum-jp-630-0000-naramachi",
     "name": "Naramachi",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Naramachi",
     "city": "Nara",
@@ -5974,7 +5974,7 @@
   {
     "id": "museum-jp-730-0000-peace-museum",
     "name": "Hiroshima Peace Memorial Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-2 Nakajimacho",
     "city": "Hiroshima",
@@ -5995,7 +5995,7 @@
   {
     "id": "museum-jp-730-0000-miyajima",
     "name": "Itsukushima Shrine",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-1 Miyajimacho",
     "city": "Hatsukaichi",
@@ -6016,7 +6016,7 @@
   {
     "id": "museum-jp-730-0000-shukkeien",
     "name": "Shukkei-en Garden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2-11 Kaminoboricho",
     "city": "Hiroshima",
@@ -6037,7 +6037,7 @@
   {
     "id": "district-jp-506-0000-sanmachi",
     "name": "Sanmachi Suji",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Sanmachi",
     "city": "Takayama",
@@ -6058,7 +6058,7 @@
   {
     "id": "museum-jp-506-0000-hida-folk-village",
     "name": "Hida Folk Village",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-590 Kamiokamotomachi",
     "city": "Takayama",
@@ -6079,7 +6079,7 @@
   {
     "id": "hike-jp-506-0000-higashiyama",
     "name": "Higashiyama Walking Course",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Higashiyama Temple Area",
     "city": "Takayama",
@@ -6100,7 +6100,7 @@
   {
     "id": "hike-jp-401-0301-chureito-pagoda",
     "name": "Chureito Pagoda",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "3353-1 Arakura",
     "city": "Fujiyoshida",
@@ -6121,7 +6121,7 @@
   {
     "id": "museum-jp-401-0301-kawaguchiko",
     "name": "Lake Kawaguchiko",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Kawaguchiko",
     "city": "Fujikawaguchiko",
@@ -6142,7 +6142,7 @@
   {
     "id": "hike-jp-401-0301-arakurayama",
     "name": "Arakurayama Sengen Park",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "2-chome Arakura",
     "city": "Fujiyoshida",
@@ -6163,7 +6163,7 @@
   {
     "id": "museum-jp-903-0801-shuri-castle",
     "name": "Shuri Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Shurikinjocho",
     "city": "Naha",
@@ -6184,7 +6184,7 @@
   {
     "id": "district-jp-900-0000-kokusai-dori",
     "name": "Kokusai Dori",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Kokusai Dori",
     "city": "Naha",
@@ -6205,7 +6205,7 @@
   {
     "id": "museum-jp-900-0000-makishi-market",
     "name": "Makishi Public Market",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2-10-1 Matsuo",
     "city": "Naha",
@@ -6226,7 +6226,7 @@
   {
     "id": "beach-jp-904-0000-kaichu-doro",
     "name": "Kaichu Doro",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Kaichu Doro",
     "city": "Uruma",
@@ -6247,7 +6247,7 @@
   {
     "id": "hike-jp-250-0000-hakone-loop",
     "name": "Hakone Loop",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Hakone",
     "city": "Hakone",
@@ -6268,7 +6268,7 @@
   {
     "id": "museum-jp-250-0000-hakone-ekiden",
     "name": "Hakone Open-Air Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1121 Ninotaira",
     "city": "Hakone",
@@ -6310,7 +6310,7 @@
   {
     "id": "museum-jp-321-0000-toshogu",
     "name": "Tōshō-gū",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2301 Sannai",
     "city": "Nikko",
@@ -6331,7 +6331,7 @@
   {
     "id": "hike-jp-321-0000-ke-gon-falls",
     "name": "Kegon Falls",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Chugushi",
     "city": "Nikko",
@@ -6352,7 +6352,7 @@
   {
     "id": "hike-jp-321-0000-chuzenji",
     "name": "Lake Chuzenji",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Chugushi",
     "city": "Nikko",
@@ -6373,7 +6373,7 @@
   {
     "id": "museum-jp-460-0000-nagoya-castle",
     "name": "Nagoya Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-1 Honmaru",
     "city": "Nagoya",
@@ -6394,7 +6394,7 @@
   {
     "id": "museum-jp-460-0000-sci-museum",
     "name": "Nagoya City Science Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2-17-1 Sakae",
     "city": "Nagoya",
@@ -6415,7 +6415,7 @@
   {
     "id": "museum-jp-810-0000-tochoji",
     "name": "Tōchō-ji",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2-4 Gokushomachi",
     "city": "Fukuoka",
@@ -6436,7 +6436,7 @@
   {
     "id": "district-jp-810-0000-canal-city",
     "name": "Canal City Hakata",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-2 Sumiyoshi",
     "city": "Fukuoka",
@@ -6457,7 +6457,7 @@
   {
     "id": "museum-jp-060-0000-sapporo-beer",
     "name": "Sapporo Beer Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "9-1-1 Kita 7 Johigashi",
     "city": "Sapporo",
@@ -6478,7 +6478,7 @@
   {
     "id": "museum-jp-060-0000-odori-park",
     "name": "Odori Park",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Odori Park",
     "city": "Sapporo",
@@ -6499,7 +6499,7 @@
   {
     "id": "restaurant-jp-650-0000-kobe-beef",
     "name": "Kobe Beef Experience",
-    "type": "restaurant",
+    "type": "eats",
     "teen_safe": true,
     "address": "Various locations",
     "city": "Kobe",
@@ -6520,7 +6520,7 @@
   {
     "id": "museum-jp-650-0000-ikuta-jinja",
     "name": "Ikuta Jinja",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-2-1 Ikutacho",
     "city": "Kobe",
@@ -6541,7 +6541,7 @@
   {
     "id": "hike-jp-044-0000-niseko",
     "name": "Niseko Ski Resort",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Niseko",
     "city": "Niseko",
@@ -6583,7 +6583,7 @@
   {
     "id": "hike-jp-390-0000-kamikochi",
     "name": "Kamikochi",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Kamikochi",
     "city": "Matsumoto",
@@ -6604,7 +6604,7 @@
   {
     "id": "hike-jp-630-0000-kumano-kodo",
     "name": "Kumano Kodo",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Tanabe",
     "city": "Tanabe",
@@ -6625,7 +6625,7 @@
   {
     "id": "museum-jp-630-0000-tamaki-shrine",
     "name": "Tamaki Shrine",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Tamaki",
     "city": "Taiki",
@@ -6646,7 +6646,7 @@
   {
     "id": "museum-jp-100-0000-imperial-palace",
     "name": "Tokyo Imperial Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1-1 Chiyoda",
     "city": "Tokyo",
@@ -6667,7 +6667,7 @@
   {
     "id": "museum-jp-230-0000-sankeien",
     "name": "Sankeien Garden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "58-1 Honmokusannotani",
     "city": "Yokohama",
@@ -6688,7 +6688,7 @@
   {
     "id": "museum-jp-605-0000-kiyomizu-station",
     "name": "Kyoto Station Building",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Higashishiokojicho",
     "city": "Kyoto",
@@ -6709,7 +6709,7 @@
   {
     "id": "museum-jp-630-0000-nara-park",
     "name": "Nara Park",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Nara Park",
     "city": "Nara",
@@ -6730,7 +6730,7 @@
   {
     "id": "museum-jp-920-0000-omi-cho",
     "name": "Omi-cho Market",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Omi-cho",
     "city": "Kanazawa",
@@ -6751,7 +6751,7 @@
   {
     "id": "museum-jp-250-0000-choanji",
     "name": "Chōan-ji Temple",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Hakone",
     "city": "Hakone",
@@ -6772,7 +6772,7 @@
   {
     "id": "museum-jp-321-0000-taiyuin",
     "name": "Taiyū-in",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2300 Sannai",
     "city": "Nikko",
@@ -6793,7 +6793,7 @@
   {
     "id": "museum-jp-390-0000-matsumoto-castle",
     "name": "Matsumoto Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "4-1 Marunouchi",
     "city": "Matsumoto",
@@ -6814,7 +6814,7 @@
   {
     "id": "hike-jp-390-0000-daio-wasabi",
     "name": "Daio Wasabi Farm",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "3640 Hotaka",
     "city": "Azumino",
@@ -6835,7 +6835,7 @@
   {
     "id": "museum-jp-605-0000-oko-chi-sanso",
     "name": "Okochi Sanso Villa",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "8 Tabuchinoyama",
     "city": "Kyoto",
@@ -6856,7 +6856,7 @@
   {
     "id": "museum-in-221001-dashashwamedh-ghat",
     "name": "Dashashwamedh Ghat",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Dashashwamedh Ghat",
     "city": "Varanasi",
@@ -6877,7 +6877,7 @@
   {
     "id": "museum-in-221001-kashi-vishwanath",
     "name": "Kashi Vishwanath Temple",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Lahori Tola",
     "city": "Varanasi",
@@ -6898,7 +6898,7 @@
   {
     "id": "museum-in-221001-sarnath",
     "name": "Sarnath",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Sarnath",
     "city": "Varanasi",
@@ -6919,7 +6919,7 @@
   {
     "id": "museum-in-282001-taj-mahal",
     "name": "Taj Mahal",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Dharmapuri, Forest Colony",
     "city": "Agra",
@@ -6940,7 +6940,7 @@
   {
     "id": "museum-in-282001-agra-fort",
     "name": "Agra Fort",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Agra Fort",
     "city": "Agra",
@@ -6961,7 +6961,7 @@
   {
     "id": "museum-in-282001-fatehpur-sikri",
     "name": "Fatehpur Sikri",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Fatehpur Sikri",
     "city": "Agra",
@@ -6982,7 +6982,7 @@
   {
     "id": "museum-in-302001-amber-fort",
     "name": "Amber Fort",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Amber",
     "city": "Jaipur",
@@ -7003,7 +7003,7 @@
   {
     "id": "museum-in-302001-city-palace",
     "name": "City Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Tripolia Bazaar",
     "city": "Jaipur",
@@ -7024,7 +7024,7 @@
   {
     "id": "museum-in-302001-hawa-mahal",
     "name": "Hawa Mahal",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Hawa Mahal Rd",
     "city": "Jaipur",
@@ -7045,7 +7045,7 @@
   {
     "id": "museum-in-302001-jantar-mantar",
     "name": "Jantar Mantar",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Gangori Bazaar",
     "city": "Jaipur",
@@ -7066,7 +7066,7 @@
   {
     "id": "museum-in-110001-red-fort",
     "name": "Red Fort",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Netaji Subhash Marg",
     "city": "Delhi",
@@ -7087,7 +7087,7 @@
   {
     "id": "museum-in-110001-jama-masjid",
     "name": "Jama Masjid",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Meena Bazaar",
     "city": "Delhi",
@@ -7108,7 +7108,7 @@
   {
     "id": "museum-in-110001-qutab-minar",
     "name": "Qutab Minar",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Mehrauli",
     "city": "Delhi",
@@ -7129,7 +7129,7 @@
   {
     "id": "museum-in-110001-humayuns-tomb",
     "name": "Humayun's Tomb",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Nizamuddin East",
     "city": "Delhi",
@@ -7150,7 +7150,7 @@
   {
     "id": "district-in-110001-chandni-chowk",
     "name": "Chandni Chowk",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Chandni Chowk",
     "city": "Delhi",
@@ -7171,7 +7171,7 @@
   {
     "id": "museum-in-400001-gateway-india",
     "name": "Gateway of India",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Apollo Bandar",
     "city": "Mumbai",
@@ -7192,7 +7192,7 @@
   {
     "id": "museum-in-400001-chhatrapati-terminus",
     "name": "Chhatrapati Shivaji Terminus",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "CST Station",
     "city": "Mumbai",
@@ -7213,7 +7213,7 @@
   {
     "id": "museum-in-400001-marine-drive",
     "name": "Marine Drive",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Marine Drive",
     "city": "Mumbai",
@@ -7234,7 +7234,7 @@
   {
     "id": "museum-in-400001-elephanta-caves",
     "name": "Elephanta Caves",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Elephanta Island",
     "city": "Mumbai",
@@ -7255,7 +7255,7 @@
   {
     "id": "museum-in-500001-charminar",
     "name": "Charminar",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Charminar Rd",
     "city": "Hyderabad",
@@ -7276,7 +7276,7 @@
   {
     "id": "museum-in-500001-golconda-fort",
     "name": "Golconda Fort",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Golconda Fort",
     "city": "Hyderabad",
@@ -7297,7 +7297,7 @@
   {
     "id": "restaurant-in-500001-bawarchi",
     "name": "Bawarchi Restaurant",
-    "type": "restaurant",
+    "type": "eats",
     "teen_safe": true,
     "address": "RTC Cross Rd",
     "city": "Hyderabad",
@@ -7318,7 +7318,7 @@
   {
     "id": "museum-in-700001-victoria-memorial",
     "name": "Victoria Memorial",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Queen's Way",
     "city": "Kolkata",
@@ -7339,7 +7339,7 @@
   {
     "id": "museum-in-700001-howrah-bridge",
     "name": "Howrah Bridge",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Howrah Bridge",
     "city": "Kolkata",
@@ -7360,7 +7360,7 @@
   {
     "id": "district-in-700001-kumartuli",
     "name": "Kumartuli",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Kumartuli",
     "city": "Kolkata",
@@ -7381,7 +7381,7 @@
   {
     "id": "museum-in-600001-marina-beach",
     "name": "Marina Beach",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Marina Beach",
     "city": "Chennai",
@@ -7402,7 +7402,7 @@
   {
     "id": "museum-in-600001-kapaleeshwarar",
     "name": "Kapaleeshwarar Temple",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Mylapore",
     "city": "Chennai",
@@ -7423,7 +7423,7 @@
   {
     "id": "museum-in-600001-fort-st-george",
     "name": "Fort St. George",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Fort St George",
     "city": "Chennai",
@@ -7444,7 +7444,7 @@
   {
     "id": "museum-in-560001-lalbagh",
     "name": "Lalbagh Botanical Garden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Mavalli",
     "city": "Bengaluru",
@@ -7465,7 +7465,7 @@
   {
     "id": "museum-in-560001-bangalore-palace",
     "name": "Bangalore Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Vasanth Nagar",
     "city": "Bengaluru",
@@ -7486,7 +7486,7 @@
   {
     "id": "district-in-560001-indiranagar",
     "name": "Indiranagar",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Indiranagar",
     "city": "Bengaluru",
@@ -7507,7 +7507,7 @@
   {
     "id": "museum-in-682001-fort-kochi",
     "name": "Fort Kochi",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Fort Kochi",
     "city": "Kochi",
@@ -7528,7 +7528,7 @@
   {
     "id": "museum-in-682001-jewish-synagogue",
     "name": "Paradesi Synagogue",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Jew Town",
     "city": "Kochi",
@@ -7549,7 +7549,7 @@
   {
     "id": "museum-in-682001-mattancherry-palace",
     "name": "Mattancherry Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Palace Rd",
     "city": "Kochi",
@@ -7570,7 +7570,7 @@
   {
     "id": "museum-in-695001-padmanabhaswamy",
     "name": "Padmanabhaswamy Temple",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "West Nada",
     "city": "Thiruvananthapuram",
@@ -7591,7 +7591,7 @@
   {
     "id": "museum-in-695001-napier-museum",
     "name": "Napier Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Thiruvananthapuram",
     "city": "Thiruvananthapuram",
@@ -7612,7 +7612,7 @@
   {
     "id": "museum-in-411001-aga-khan-palace",
     "name": "Aga Khan Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pune Nagar Rd",
     "city": "Pune",
@@ -7633,7 +7633,7 @@
   {
     "id": "museum-in-411001-shaniwar-wada",
     "name": "Shaniwar Wada",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Shaniwar Peth",
     "city": "Pune",
@@ -7654,7 +7654,7 @@
   {
     "id": "museum-in-226001-bara-imambara",
     "name": "Bara Imambara",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Husainabad",
     "city": "Lucknow",
@@ -7675,7 +7675,7 @@
   {
     "id": "museum-in-226001-roomi-darwaza",
     "name": "Roomi Darwaza",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Husainabad",
     "city": "Lucknow",
@@ -7696,7 +7696,7 @@
   {
     "id": "museum-in-143001-golden-temple",
     "name": "Golden Temple",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Golden Temple Rd",
     "city": "Amritsar",
@@ -7717,7 +7717,7 @@
   {
     "id": "museum-in-143001-jallianwala-bagh",
     "name": "Jallianwala Bagh",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Golden Temple Rd",
     "city": "Amritsar",
@@ -7738,7 +7738,7 @@
   {
     "id": "town-lk-00200-colombo",
     "name": "Colombo",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Various locations",
     "city": "Colombo",
@@ -7759,7 +7759,7 @@
   {
     "id": "museum-lk-00200-national-museum",
     "name": "Colombo National Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Sir Marcus Fernando Mawatha",
     "city": "Colombo",
@@ -7780,7 +7780,7 @@
   {
     "id": "town-lk-20000-kandy",
     "name": "Kandy",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Various locations",
     "city": "Kandy",
@@ -7801,7 +7801,7 @@
   {
     "id": "museum-lk-20000-tooth-temple",
     "name": "Temple of the Tooth",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Sri Dalada Veediya",
     "city": "Kandy",
@@ -7822,7 +7822,7 @@
   {
     "id": "town-lk-80000-galle",
     "name": "Galle Fort",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Galle Fort",
     "city": "Galle",
@@ -7843,7 +7843,7 @@
   {
     "id": "museum-lk-80000-martin-wickramasinghe",
     "name": "Martin Wickramasinghe House",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Koggala",
     "city": "Galle",
@@ -7864,7 +7864,7 @@
   {
     "id": "museum-lk-21100-sigiriya",
     "name": "Sigiriya Rock Fortress",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Sigiriya",
     "city": "Sigiriya",
@@ -7885,7 +7885,7 @@
   {
     "id": "museum-lk-21100-pidurangala",
     "name": "Pidurangala Rock",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Pidurangala",
     "city": "Sigiriya",
@@ -7906,7 +7906,7 @@
   {
     "id": "town-lk-90900-ella",
     "name": "Ella",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Ella",
     "city": "Ella",
@@ -7927,7 +7927,7 @@
   {
     "id": "hike-lk-90900-nine-arches",
     "name": "Nine Arches Bridge",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Demodara",
     "city": "Ella",
@@ -7948,7 +7948,7 @@
   {
     "id": "town-np-44600-kathmandu",
     "name": "Kathmandu Durbar Square",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Durbar Square",
     "city": "Kathmandu",
@@ -7969,7 +7969,7 @@
   {
     "id": "museum-np-44600-swayambhunath",
     "name": "Swayambhunath Stupa",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Swayambhunath",
     "city": "Kathmandu",
@@ -7990,7 +7990,7 @@
   {
     "id": "museum-np-44600-patan",
     "name": "Patan Durbar Square",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Patan",
     "city": "Lalitpur",
@@ -8011,7 +8011,7 @@
   {
     "id": "town-np-33700-pokhara",
     "name": "Pokhara",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Pokhara",
     "city": "Pokhara",
@@ -8032,7 +8032,7 @@
   {
     "id": "hike-np-33700-sarangkot",
     "name": "Sarangkot",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Sarangkot",
     "city": "Pokhara",
@@ -8053,7 +8053,7 @@
   {
     "id": "museum-np-32900-lumbini",
     "name": "Lumbini",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Lumbini",
     "city": "Lumbini",
@@ -8074,7 +8074,7 @@
   {
     "id": "town-bt-11001-paro",
     "name": "Paro",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Paro",
     "city": "Paro",
@@ -8095,7 +8095,7 @@
   {
     "id": "hike-bt-11001-tigers-nest",
     "name": "Tiger's Nest Monastery",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Paro Valley",
     "city": "Paro",
@@ -8116,7 +8116,7 @@
   {
     "id": "town-bt-11001-thimphu",
     "name": "Thimphu",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Thimphu",
     "city": "Thimphu",
@@ -8137,7 +8137,7 @@
   {
     "id": "museum-bt-11001-kyichu-lhakhang",
     "name": "Kyichu Lhakhang",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Lango",
     "city": "Paro",
@@ -8158,7 +8158,7 @@
   {
     "id": "town-bt-14001-punakha",
     "name": "Punakha Dzong",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Punakha",
     "city": "Punakha",
@@ -8179,7 +8179,7 @@
   {
     "id": "town-mv-20000-male",
     "name": "Malé",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Malé",
     "city": "Malé",
@@ -8242,7 +8242,7 @@
   {
     "id": "town-pk-54000-lahore",
     "name": "Lahore Fort & Badshahi Mosque",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Lahore",
     "city": "Lahore",
@@ -8263,7 +8263,7 @@
   {
     "id": "town-pk-74000-karachi",
     "name": "Karachi",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Karachi",
     "city": "Karachi",
@@ -8284,7 +8284,7 @@
   {
     "id": "town-bd-1000-dhaka",
     "name": "Dhaka",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Dhaka",
     "city": "Dhaka",
@@ -8305,7 +8305,7 @@
   {
     "id": "museum-au-2000-sydney-opera-house",
     "name": "Sydney Opera House",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Bennelong Point",
     "city": "Sydney",
@@ -8326,7 +8326,7 @@
   {
     "id": "hike-au-2000-harbour-bridge",
     "name": "Sydney Harbour Bridge",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Sydney Harbour Bridge",
     "city": "Sydney",
@@ -8347,7 +8347,7 @@
   {
     "id": "hike-au-2000-bondi-beach",
     "name": "Bondi Beach",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Bondi Beach",
     "city": "Sydney",
@@ -8368,7 +8368,7 @@
   {
     "id": "museum-au-2000-royal-botanic",
     "name": "Royal Botanic Garden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Mrs Macquaries Rd",
     "city": "Sydney",
@@ -8389,7 +8389,7 @@
   {
     "id": "museum-au-2000-taronga-zoo",
     "name": "Taronga Zoo",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Bradleys Head Rd",
     "city": "Sydney",
@@ -8410,7 +8410,7 @@
   {
     "id": "museum-au-2000-australian-museum",
     "name": "Australian Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1 William St",
     "city": "Sydney",
@@ -8431,7 +8431,7 @@
   {
     "id": "hike-au-2000-mrs-macquaries-chair",
     "name": "Mrs Macquarie's Chair",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Mrs Macquaries Point",
     "city": "Sydney",
@@ -8452,7 +8452,7 @@
   {
     "id": "museum-au-2000-chinese-garden",
     "name": "Chinese Garden of Friendship",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pier St",
     "city": "Sydney",
@@ -8473,7 +8473,7 @@
   {
     "id": "district-au-2000-the-rocks",
     "name": "The Rocks",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "The Rocks",
     "city": "Sydney",
@@ -8494,7 +8494,7 @@
   {
     "id": "restaurant-au-2000-quay",
     "name": "Quay Restaurant",
-    "type": "restaurant",
+    "type": "eats",
     "teen_safe": true,
     "address": "Upper Level, Overseas Passenger Terminal",
     "city": "Sydney",
@@ -8515,7 +8515,7 @@
   {
     "id": "museum-au-3000-acmi",
     "name": "ACMI",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Federation Square",
     "city": "Melbourne",
@@ -8536,7 +8536,7 @@
   {
     "id": "museum-au-3000-ngv",
     "name": "National Gallery of Victoria",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "180 St Kilda Rd",
     "city": "Melbourne",
@@ -8557,7 +8557,7 @@
   {
     "id": "museum-au-3000-queen-vic-market",
     "name": "Queen Victoria Market",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Queen St",
     "city": "Melbourne",
@@ -8578,7 +8578,7 @@
   {
     "id": "hike-au-3000-royal-botanic-melb",
     "name": "Royal Botanic Gardens Melbourne",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Birdwood Ave",
     "city": "Melbourne",
@@ -8599,7 +8599,7 @@
   {
     "id": "museum-au-3000-melbourne-museum",
     "name": "Melbourne Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "11 Nicholson St",
     "city": "Melbourne",
@@ -8620,7 +8620,7 @@
   {
     "id": "district-au-3000-fed-square",
     "name": "Federation Square",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Federation Square",
     "city": "Melbourne",
@@ -8641,7 +8641,7 @@
   {
     "id": "museum-au-3000-nga",
     "name": "NGV Australia",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Federation Square",
     "city": "Melbourne",
@@ -8662,7 +8662,7 @@
   {
     "id": "museum-au-3000-shrine",
     "name": "Shrine of Remembrance",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Birdwood Ave",
     "city": "Melbourne",
@@ -8683,7 +8683,7 @@
   {
     "id": "hike-au-3000-southbank",
     "name": "Southbank Promenade",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Southbank",
     "city": "Melbourne",
@@ -8704,7 +8704,7 @@
   {
     "id": "hike-au-3000-st-kilda",
     "name": "St Kilda Beach",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "St Kilda",
     "city": "Melbourne",
@@ -8725,7 +8725,7 @@
   {
     "id": "museum-au-4000-southbank-park",
     "name": "South Bank Parklands",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "South Bank",
     "city": "Brisbane",
@@ -8746,7 +8746,7 @@
   {
     "id": "museum-au-4000-goma",
     "name": "GOMA",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Stanley Place",
     "city": "Brisbane",
@@ -8767,7 +8767,7 @@
   {
     "id": "museum-au-4000-queensland-museum",
     "name": "Queensland Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Grey St",
     "city": "Brisbane",
@@ -8788,7 +8788,7 @@
   {
     "id": "hike-au-4000-storey-bridge",
     "name": "Story Bridge",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Story Bridge",
     "city": "Brisbane",
@@ -8809,7 +8809,7 @@
   {
     "id": "museum-au-4000-lone-pine",
     "name": "Lone Pine Koala Sanctuary",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "708 Jesmond Rd",
     "city": "Brisbane",
@@ -8830,7 +8830,7 @@
   {
     "id": "hike-au-4000-mt-coot-tha",
     "name": "Mount Coot-tha Lookout",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Sir Samuel Griffith Dr",
     "city": "Brisbane",
@@ -8851,7 +8851,7 @@
   {
     "id": "museum-au-4000-roma-st",
     "name": "Roma Street Parkland",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1 Parkland Blvd",
     "city": "Brisbane",
@@ -8872,7 +8872,7 @@
   {
     "id": "museum-au-4000-qut-art",
     "name": "QUT Art Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "2 George St",
     "city": "Brisbane",
@@ -8893,7 +8893,7 @@
   {
     "id": "hike-au-4000-kangaroo-point",
     "name": "Kangaroo Point Cliffs",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Kangaroo Point",
     "city": "Brisbane",
@@ -8914,7 +8914,7 @@
   {
     "id": "district-au-4000-west-end",
     "name": "West End",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "West End",
     "city": "Brisbane",
@@ -8935,7 +8935,7 @@
   {
     "id": "museum-au-6000-kings-park",
     "name": "Kings Park and Botanic Garden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Fraser Ave",
     "city": "Perth",
@@ -8956,7 +8956,7 @@
   {
     "id": "museum-au-6000-perth-mint",
     "name": "The Perth Mint",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "310 Hay St",
     "city": "Perth",
@@ -8977,7 +8977,7 @@
   {
     "id": "hike-au-6000-rottnest",
     "name": "Rottnest Island",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Rottnest Island",
     "city": "Perth",
@@ -8998,7 +8998,7 @@
   {
     "id": "museum-au-6000-fremantle-prison",
     "name": "Fremantle Prison",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1 The Terrace",
     "city": "Fremantle",
@@ -9019,7 +9019,7 @@
   {
     "id": "hike-au-6000-cottesloe",
     "name": "Cottesloe Beach",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Marine Parade",
     "city": "Cottesloe",
@@ -9040,7 +9040,7 @@
   {
     "id": "museum-au-6000-fremantle-markets",
     "name": "Fremantle Markets",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Cnr Henderson St",
     "city": "Fremantle",
@@ -9061,7 +9061,7 @@
   {
     "id": "museum-au-6000-art-gallery-wa",
     "name": "Art Gallery of Western Australia",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Perth Cultural Centre",
     "city": "Perth",
@@ -9082,7 +9082,7 @@
   {
     "id": "hike-au-6000-elizabeth-quay",
     "name": "Elizabeth Quay",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Elizabeth Quay",
     "city": "Perth",
@@ -9103,7 +9103,7 @@
   {
     "id": "hike-au-6000-swan-valley",
     "name": "Swan Valley",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Swan Valley",
     "city": "Perth",
@@ -9124,7 +9124,7 @@
   {
     "id": "museum-au-6000-aquarium-wa",
     "name": "AQWA",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "91 Southside Dr",
     "city": "Hillarys",
@@ -9145,7 +9145,7 @@
   {
     "id": "museum-au-5000-adelaide-botanic",
     "name": "Adelaide Botanic Garden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "North Terrace",
     "city": "Adelaide",
@@ -9166,7 +9166,7 @@
   {
     "id": "museum-au-5000-art-gallery-sa",
     "name": "Art Gallery of South Australia",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "North Terrace",
     "city": "Adelaide",
@@ -9187,7 +9187,7 @@
   {
     "id": "museum-au-5000-sa-museum",
     "name": "South Australian Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "North Terrace",
     "city": "Adelaide",
@@ -9208,7 +9208,7 @@
   {
     "id": "hike-au-5000-glenelg",
     "name": "Glenelg Beach",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Glenelg",
     "city": "Adelaide",
@@ -9229,7 +9229,7 @@
   {
     "id": "museum-au-5000-adelaide-zoo",
     "name": "Adelaide Zoo",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Frome Rd",
     "city": "Adelaide",
@@ -9250,7 +9250,7 @@
   {
     "id": "hike-au-5000-hahndorf",
     "name": "Hahndorf",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Hahndorf",
     "city": "Hahndorf",
@@ -9271,7 +9271,7 @@
   {
     "id": "museum-au-5000-railway-museum",
     "name": "National Railway Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "76 Lipson St",
     "city": "Port Adelaide",
@@ -9292,7 +9292,7 @@
   {
     "id": "district-au-5000-port-adelaide",
     "name": "Port Adelaide",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Port Adelaide",
     "city": "Port Adelaide",
@@ -9313,7 +9313,7 @@
   {
     "id": "hike-au-5000-adelaide-hills",
     "name": "Adelaide Hills",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Adelaide Hills",
     "city": "Adelaide",
@@ -9355,7 +9355,7 @@
   {
     "id": "museum-gb-sw1a-1aa-buckingham-palace",
     "name": "Buckingham Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Buckingham Palace",
     "city": "London",
@@ -9376,7 +9376,7 @@
   {
     "id": "museum-gb-wc2n-5dn-british-museum",
     "name": "British Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Great Russell St",
     "city": "London",
@@ -9397,7 +9397,7 @@
   {
     "id": "museum-gb-n1-9gu-tate-modern",
     "name": "Tate Modern",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Bankside",
     "city": "London",
@@ -9418,7 +9418,7 @@
   {
     "id": "museum-gb-sw7-2rl-natural-history",
     "name": "Natural History Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Cromwell Rd",
     "city": "London",
@@ -9439,7 +9439,7 @@
   {
     "id": "hike-gb-sw1-2dy-london-eye",
     "name": "London Eye",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Lambeth",
     "city": "London",
@@ -9460,7 +9460,7 @@
   {
     "id": "museum-gb-cv34-6dd-warwick-castle",
     "name": "Warwick Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Warwick",
     "city": "Warwick",
@@ -9481,7 +9481,7 @@
   {
     "id": "hike-gb-ka1-4ha-edinburgh-castle",
     "name": "Edinburgh Castle",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Castlehill",
     "city": "Edinburgh",
@@ -9502,7 +9502,7 @@
   {
     "id": "museum-gb-ka1-4ha-national-museum-scotland",
     "name": "National Museum of Scotland",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Chambers St",
     "city": "Edinburgh",
@@ -9523,7 +9523,7 @@
   {
     "id": "hike-gb-ll30-2yg-conwy-castle",
     "name": "Conwy Castle",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Conwy",
     "city": "Conwy",
@@ -9544,7 +9544,7 @@
   {
     "id": "hike-gb-ab24-5tp-cairngorms",
     "name": "Cairngorms National Park",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Cairngorms",
     "city": "Aviemore",
@@ -9565,7 +9565,7 @@
   {
     "id": "hike-gb-bt1-5gs-giants-causeway",
     "name": "Giant's Causeway",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Bushmills",
     "city": "Bushmills",
@@ -9586,7 +9586,7 @@
   {
     "id": "museum-gb-cf10-3er-cardiff-castle",
     "name": "Cardiff Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Castle St",
     "city": "Cardiff",
@@ -9607,7 +9607,7 @@
   {
     "id": "museum-gb-yo1-7hb-york-minster",
     "name": "York Minster",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Deangate",
     "city": "York",
@@ -9628,7 +9628,7 @@
   {
     "id": "hike-gb-la22-9jb-lake-district",
     "name": "Lake District National Park",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Lake District",
     "city": "Keswick",
@@ -9649,7 +9649,7 @@
   {
     "id": "museum-gb-iv36-3tw-culloden",
     "name": "Culloden Battlefield",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Culloden",
     "city": "Inverness",
@@ -9670,7 +9670,7 @@
   {
     "id": "museum-fr-75001-louvre",
     "name": "Louvre Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rue de Rivoli",
     "city": "Paris",
@@ -9691,7 +9691,7 @@
   {
     "id": "museum-fr-75007-eiffel-tower",
     "name": "Eiffel Tower",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Champ de Mars",
     "city": "Paris",
@@ -9712,7 +9712,7 @@
   {
     "id": "museum-fr-75008-arc-triomphe",
     "name": "Arc de Triomphe",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Place Charles de Gaulle",
     "city": "Paris",
@@ -9733,7 +9733,7 @@
   {
     "id": "museum-fr-75004-notre-dame",
     "name": "Notre-Dame Cathedral",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "6 Parvis Notre-Dame",
     "city": "Paris",
@@ -9754,7 +9754,7 @@
   {
     "id": "museum-fr-78000-versailles",
     "name": "Palace of Versailles",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Place d'Armes",
     "city": "Versailles",
@@ -9775,7 +9775,7 @@
   {
     "id": "museum-fr-33000-bassins-lumieres",
     "name": "Bassins de Lumières",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rue de la Magdeleine",
     "city": "Bordeaux",
@@ -9796,7 +9796,7 @@
   {
     "id": "museum-fr-13200-les-carrieres",
     "name": "Les Carrières de Lumières",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Route de Maillane",
     "city": "Les Baux-de-Provence",
@@ -9817,7 +9817,7 @@
   {
     "id": "museum-fr-84000-palais-papes",
     "name": "Palais des Papes",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Place du Palais",
     "city": "Avignon",
@@ -9838,7 +9838,7 @@
   {
     "id": "hike-fr-74290-mer-de-glace",
     "name": "Mer de Glace",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Montenvers",
     "city": "Chamonix",
@@ -9859,7 +9859,7 @@
   {
     "id": "hike-fr-73150-val-thorens",
     "name": "Val Thorens",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Val Thorens",
     "city": "Val Thorens",
@@ -9880,7 +9880,7 @@
   {
     "id": "museum-fr-68000-musee-unterlinden",
     "name": "Musée Unterlinden",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "1 Rue d'Unterlinden",
     "city": "Colmar",
@@ -9901,7 +9901,7 @@
   {
     "id": "hike-fr-22300-chateau-tonquedec",
     "name": "Château de Tonquédec",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Tonquédec",
     "city": "Tonquédec",
@@ -9922,7 +9922,7 @@
   {
     "id": "museum-fr-06300-chateau-nice",
     "name": "Colline du Château",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Colline du Château",
     "city": "Nice",
@@ -9943,7 +9943,7 @@
   {
     "id": "hike-fr-83510-lourmarin",
     "name": "Lourmarin",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Lourmarin",
     "city": "Lourmarin",
@@ -9964,7 +9964,7 @@
   {
     "id": "museum-fr-37000-chateau-chambord",
     "name": "Château de Chambord",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Chambord",
     "city": "Chambord",
@@ -9985,7 +9985,7 @@
   {
     "id": "museum-it-00186-colosseum",
     "name": "Colosseum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Piazza del Colosseo",
     "city": "Rome",
@@ -10006,7 +10006,7 @@
   {
     "id": "museum-it-00186-vatican-museums",
     "name": "Vatican Museums",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Viale Vaticano",
     "city": "Rome",
@@ -10027,7 +10027,7 @@
   {
     "id": "museum-it-50122-uffizi",
     "name": "Uffizi Gallery",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Piazzale degli Uffizi",
     "city": "Florence",
@@ -10048,7 +10048,7 @@
   {
     "id": "museum-it-50122-accademia",
     "name": "Galleria dell'Accademia",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Via Ricasoli",
     "city": "Florence",
@@ -10069,7 +10069,7 @@
   {
     "id": "museum-it-30124-piazza-san-marco",
     "name": "Piazza San Marco",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Piazza San Marco",
     "city": "Venice",
@@ -10090,7 +10090,7 @@
   {
     "id": "museum-it-30124-rialto-bridge",
     "name": "Rialto Bridge",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Rialto Bridge",
     "city": "Venice",
@@ -10111,7 +10111,7 @@
   {
     "id": "museum-it-80135-pompeii",
     "name": "Pompeii",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pompeii",
     "city": "Pompeii",
@@ -10132,7 +10132,7 @@
   {
     "id": "hike-it-80074-vesuvius",
     "name": "Mount Vesuvius",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Vesuvius National Park",
     "city": "Naples",
@@ -10153,7 +10153,7 @@
   {
     "id": "hike-it-84010-amalfi-coast",
     "name": "Amalfi Coast",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Amalfi Coast",
     "city": "Positano",
@@ -10174,7 +10174,7 @@
   {
     "id": "museum-it-53100-duomo-siena",
     "name": "Duomo di Siena",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Piazza del Duomo",
     "city": "Siena",
@@ -10195,7 +10195,7 @@
   {
     "id": "museum-it-40125-mosaics-ravenna",
     "name": "Mosaics of Ravenna",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Via San Vitale",
     "city": "Ravenna",
@@ -10216,7 +10216,7 @@
   {
     "id": "museum-it-10123-mole-antonelliana",
     "name": "Mole Antonelliana",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Via Montebello",
     "city": "Turin",
@@ -10237,7 +10237,7 @@
   {
     "id": "museum-it-20121-last-supper",
     "name": "The Last Supper",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Piazza Santa Maria delle Grazie",
     "city": "Milan",
@@ -10258,7 +10258,7 @@
   {
     "id": "museum-it-37129-arena-verona",
     "name": "Arena di Verona",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Piazza Bra",
     "city": "Verona",
@@ -10279,7 +10279,7 @@
   {
     "id": "museum-it-55100-leaning-tower",
     "name": "Leaning Tower of Pisa",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Piazza del Duomo",
     "city": "Pisa",
@@ -10300,7 +10300,7 @@
   {
     "id": "museum-es-08001-sagrada-familia",
     "name": "Sagrada Família",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Carrer de Mallorca",
     "city": "Barcelona",
@@ -10321,7 +10321,7 @@
   {
     "id": "museum-es-08001-park-guell",
     "name": "Park Güell",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Carrer d'Olot",
     "city": "Barcelona",
@@ -10342,7 +10342,7 @@
   {
     "id": "museum-es-28001-prado",
     "name": "Prado Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Paseo del Prado",
     "city": "Madrid",
@@ -10363,7 +10363,7 @@
   {
     "id": "museum-es-28001-royal-palace",
     "name": "Royal Palace of Madrid",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Calle de Bailén",
     "city": "Madrid",
@@ -10384,7 +10384,7 @@
   {
     "id": "museum-es-41001-alcazar-seville",
     "name": "Royal Alcázar of Seville",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Patio de Banderas",
     "city": "Seville",
@@ -10405,7 +10405,7 @@
   {
     "id": "museum-es-41001-cathedral-seville",
     "name": "Seville Cathedral",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Avenida de la Constitución",
     "city": "Seville",
@@ -10426,7 +10426,7 @@
   {
     "id": "museum-es-18009-alhambra",
     "name": "Alhambra",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Calle Real de la Alhambra",
     "city": "Granada",
@@ -10447,7 +10447,7 @@
   {
     "id": "museum-es-50001-aljaferia",
     "name": "Aljafería Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Calle de los Diputados",
     "city": "Zaragoza",
@@ -10468,7 +10468,7 @@
   {
     "id": "museum-es-07001-catedral-mallorca",
     "name": "Catedral de Mallorca",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Plaza de la Seo",
     "city": "Palma",
@@ -10489,7 +10489,7 @@
   {
     "id": "hike-es-35580-teide",
     "name": "Teide National Park",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Teide National Park",
     "city": "Tenerife",
@@ -10510,7 +10510,7 @@
   {
     "id": "museum-es-48001-guggenheim",
     "name": "Guggenheim Museum Bilbao",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Abandoibarra Etorbidea",
     "city": "Bilbao",
@@ -10531,7 +10531,7 @@
   {
     "id": "museum-es-39001-cuevas-altamira",
     "name": "Cuevas de Altamira",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Santillana del Mar",
     "city": "Santillana del Mar",
@@ -10552,7 +10552,7 @@
   {
     "id": "museum-de-10117-brandenburg-gate",
     "name": "Brandenburg Gate",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Pariser Platz",
     "city": "Berlin",
@@ -10573,7 +10573,7 @@
   {
     "id": "museum-de-10117-reichstag",
     "name": "Reichstag Building",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Platz der Republik",
     "city": "Berlin",
@@ -10594,7 +10594,7 @@
   {
     "id": "museum-de-10117-museum-insel",
     "name": "Museum Island",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Museumsinsel",
     "city": "Berlin",
@@ -10615,7 +10615,7 @@
   {
     "id": "museum-de-80333-neuschwanstein",
     "name": "Neuschwanstein Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Neuschwansteinstraße",
     "city": "Hohenschwangau",
@@ -10636,7 +10636,7 @@
   {
     "id": "museum-de-80331-marienplatz",
     "name": "Marienplatz",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Marienplatz",
     "city": "Munich",
@@ -10657,7 +10657,7 @@
   {
     "id": "museum-de-50667-cologne-cathedral",
     "name": "Cologne Cathedral",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Domkloster 4",
     "city": "Cologne",
@@ -10678,7 +10678,7 @@
   {
     "id": "museum-de-60311-romer",
     "name": "Römer",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Römerberg 23",
     "city": "Frankfurt",
@@ -10699,7 +10699,7 @@
   {
     "id": "hike-de-87561-berchtesgaden",
     "name": "Berchtesgaden National Park",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Berchtesgaden",
     "city": "Berchtesgaden",
@@ -10720,7 +10720,7 @@
   {
     "id": "hike-de-54470-moselle-valley",
     "name": "Moselle Valley",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Moselle Valley",
     "city": "Cochem",
@@ -10741,7 +10741,7 @@
   {
     "id": "hike-de-98617-roemersteig",
     "name": "Römersteig Trail",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Bacharach",
     "city": "Bacharach",
@@ -10762,7 +10762,7 @@
   {
     "id": "museum-nl-1012-rijksmuseum",
     "name": "Rijksmuseum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Museumstraat 1",
     "city": "Amsterdam",
@@ -10783,7 +10783,7 @@
   {
     "id": "museum-nl-1012-van-gogh",
     "name": "Van Gogh Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Museumplein 6",
     "city": "Amsterdam",
@@ -10804,7 +10804,7 @@
   {
     "id": "museum-nl-1012-anne-frank",
     "name": "Anne Frank House",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Prinsengracht 263-267",
     "city": "Amsterdam",
@@ -10825,7 +10825,7 @@
   {
     "id": "museum-nl-1012-rijksmuseum",
     "name": "Rijksmuseum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Museumstraat 1",
     "city": "Amsterdam",
@@ -10846,7 +10846,7 @@
   {
     "id": "museum-nl-1012-van-gogh",
     "name": "Van Gogh Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Museumplein 6",
     "city": "Amsterdam",
@@ -10867,7 +10867,7 @@
   {
     "id": "museum-nl-1012-anne-frank",
     "name": "Anne Frank House",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Prinsengracht 263-267",
     "city": "Amsterdam",
@@ -10888,7 +10888,7 @@
   {
     "id": "hike-nl-1012-canals",
     "name": "Amsterdam Canals",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Amsterdam",
     "city": "Amsterdam",
@@ -10909,7 +10909,7 @@
   {
     "id": "hike-nl-2312-keukenhof",
     "name": "Keukenhof Gardens",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Stationsweg 166A",
     "city": "Lisse",
@@ -10930,7 +10930,7 @@
   {
     "id": "hike-nl-9712-kinderdijk",
     "name": "Kinderdijk",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Nederwaard 1",
     "city": "Kinderdijk",
@@ -10951,7 +10951,7 @@
   {
     "id": "museum-nl-3011-markthal",
     "name": "Markthal Rotterdam",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Dominee Jan Scharpstraat 298",
     "city": "Rotterdam",
@@ -10972,7 +10972,7 @@
   {
     "id": "museum-gr-10558-acropolis",
     "name": "Acropolis of Athens",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Athens 105 58",
     "city": "Athens",
@@ -10993,7 +10993,7 @@
   {
     "id": "museum-gr-10558-acropolis-museum",
     "name": "Acropolis Museum",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Dionysiou Areopagitou 15",
     "city": "Athens",
@@ -11014,7 +11014,7 @@
   {
     "id": "hike-gr-84700-santorini",
     "name": "Santorini",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Santorini",
     "city": "Thira",
@@ -11035,7 +11035,7 @@
   {
     "id": "hike-gr-84600-fira-ia",
     "name": "Fira to Oia Hike",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Fira",
     "city": "Thira",
@@ -11056,7 +11056,7 @@
   {
     "id": "hike-gr-84600-mykonos",
     "name": "Mykonos",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Mykonos",
     "city": "Mykonos",
@@ -11077,7 +11077,7 @@
   {
     "id": "hike-gr-37002-meteora",
     "name": "Meteora",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Kalabaka 422 00",
     "city": "Kalabaka",
@@ -11098,7 +11098,7 @@
   {
     "id": "museum-gr-71202-knossos",
     "name": "Palace of Knossos",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Knossos 714 09",
     "city": "Heraklion",
@@ -11119,7 +11119,7 @@
   {
     "id": "hike-gr-85100-rhodes-old-town",
     "name": "Rhodes Old Town",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Rhodes Old Town",
     "city": "Rhodes",
@@ -11140,7 +11140,7 @@
   {
     "id": "museum-pt-1100-belem-tower",
     "name": "Belém Tower",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Av. Brasília",
     "city": "Lisbon",
@@ -11161,7 +11161,7 @@
   {
     "id": "museum-pt-1100-jeronimos",
     "name": "Jerónimos Monastery",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Praça do Império",
     "city": "Lisbon",
@@ -11182,7 +11182,7 @@
   {
     "id": "museum-pt-4050-livraria-lello",
     "name": "Livraria Lello",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "R. das Carmelitas 144",
     "city": "Porto",
@@ -11224,7 +11224,7 @@
   {
     "id": "museum-pt-8000-sintra",
     "name": "Sintra",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Sintra",
     "city": "Sintra",
@@ -11245,7 +11245,7 @@
   {
     "id": "hike-pt-8000-cabo-da-roca",
     "name": "Cabo da Roca",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Cabo da Roca",
     "city": "Colares",
@@ -11266,7 +11266,7 @@
   {
     "id": "hike-pt-8000-elephant-rock",
     "name": "Elephant Rock",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Nazare",
     "city": "Nazare",
@@ -11287,7 +11287,7 @@
   {
     "id": "hike-pt-8000-lagos-caves",
     "name": "Lagos Caves",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Ponta da Piedade",
     "city": "Lagos",
@@ -11308,7 +11308,7 @@
   {
     "id": "hike-ch-3800-matterhorn",
     "name": "Matterhorn",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Zermatt",
     "city": "Zermatt",
@@ -11329,7 +11329,7 @@
   {
     "id": "hike-ch-3800-jungfraujoch",
     "name": "Jungfraujoch",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Jungfraujoch",
     "city": "Grindelwald",
@@ -11350,7 +11350,7 @@
   {
     "id": "hike-ch-3800-lake-geneva",
     "name": "Lake Geneva",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Lake Geneva",
     "city": "Montreux",
@@ -11371,7 +11371,7 @@
   {
     "id": "hike-ch-3800-oberhofen-castle",
     "name": "Oberhofen Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Oberhofen",
     "city": "Oberhofen",
@@ -11392,7 +11392,7 @@
   {
     "id": "hike-ch-3800-lauterbrunnen",
     "name": "Lauterbrunnen Valley",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Lauterbrunnen",
     "city": "Lauterbrunnen",
@@ -11413,7 +11413,7 @@
   {
     "id": "hike-ch-3800-grindelwald",
     "name": "Grindelwald First",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Grindelwald",
     "city": "Grindelwald",
@@ -11434,7 +11434,7 @@
   {
     "id": "museum-at-1010-schonbrunn",
     "name": "Schönbrunn Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Schönbrunner Schloßstraße 47",
     "city": "Vienna",
@@ -11455,7 +11455,7 @@
   {
     "id": "museum-at-1010-belvedere",
     "name": "Belvedere Palace",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Prinz Eugen-Straße 27",
     "city": "Vienna",
@@ -11476,7 +11476,7 @@
   {
     "id": "museum-at-1010-st-stephens",
     "name": "St. Stephen's Cathedral",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Stephansplatz 3",
     "city": "Vienna",
@@ -11497,7 +11497,7 @@
   {
     "id": "museum-at-5020-hohensalzburg",
     "name": "Hohensalzburg Castle",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "Mönchsberg 34",
     "city": "Salzburg",
@@ -11518,7 +11518,7 @@
   {
     "id": "hike-at-5020-hallstatt",
     "name": "Hallstatt",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Hallstatt",
     "city": "Hallstatt",
@@ -11539,7 +11539,7 @@
   {
     "id": "hike-at-5020-grossglockner",
     "name": "Grossglockner Road",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Grossglockner",
     "city": "Heiligenblut",
@@ -11560,7 +11560,7 @@
   {
     "id": "museum-ie-d02-guiness",
     "name": "Guinness Storehouse",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "St. James's Gate",
     "city": "Dublin",
@@ -11581,7 +11581,7 @@
   {
     "id": "museum-ie-d02-trinity-library",
     "name": "Trinity College Library",
-    "type": "museum",
+    "type": "culture",
     "teen_safe": true,
     "address": "College Green",
     "city": "Dublin",
@@ -11602,7 +11602,7 @@
   {
     "id": "hike-ie-v95-cliffs-moher",
     "name": "Cliffs of Moher",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Liscannor",
     "city": "Liscannor",
@@ -11623,7 +11623,7 @@
   {
     "id": "hike-ie-v23-ring-kerry",
     "name": "Ring of Kerry",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Ring of Kerry",
     "city": "Killarney",
@@ -11644,7 +11644,7 @@
   {
     "id": "hike-ie-f91-giants-causeway",
     "name": "Giant's Causeway",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Bushmills",
     "city": "Bushmills",
@@ -11665,7 +11665,7 @@
   {
     "id": "hike-ie-f91-dark-hedges",
     "name": "The Dark Hedges",
-    "type": "hike",
+    "type": "outdoors",
     "teen_safe": true,
     "address": "Bregagh Road",
     "city": "Ballymoney",
